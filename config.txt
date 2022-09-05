@@ -1,0 +1,25 @@
+Prefix pipelines/Opioid/
+Plugin CSVColumnQuote inputfile PlumaPipline/MultiOmics outputfile PlumaPipline/MultiOmics/no_quotes
+Plugin PlotTSNE inputfile parameters/parameters.plottsne.txt outputfile tsne/tsne_metabolomics_samples.png
+Plugin LEfSeUnClassified inputfile lefSe_analysis/lefse_final.txt outputfile lefSe_analysis/lefse_final_fixed.txt
+Plugin CheckSignificance inputfile parameters/parameters.checksignificance.txt outputfile output.significance.txt
+Plugin FeatureImportance inputfile parameters/parameters.featureimportance.txt outputfile none
+Plugin MetaboliteMap inputfile parameters/parameters.metabolitemap.txt outputfile FeatureSelection/corr_inflammation_renamed.csv
+Plugin SeparateGroups inputfile parameters/parameters.separategroups.abundance.txt outputfile abundances
+Plugin SeparateGroups inputfile parameters/parameters.separategroups.metabolites.txt outputfile metabolomics
+Plugin ShortenNames inputfile abundance/users/abund.users.norm.csv outputfile abundance/users/abund.users.plumaIn.csv
+Plugin ShortenNames inputfile abundance/non_users/abund.NonUsers.norm.csv outputfile abundance/non_users/abund.nonUsers.plumaIn.csv
+Plugin ShortenNames inputfile abundance/combined/abund.norm.csv outputfile abundance/combined/abund.norm.filtered.csv
+Plugin MetaboliteTranspose inputfile metabolomics/metabolon_HMDB.csv outputfile metabolomics/metabolon_transposed.csv
+Plugin Abund2LEfSe inputfile parameters/parameters.abund2lefse.txt outputfile abundance/lefse_prep.txt
+Plugin GML2GraphML inputfile PlumaPipline/MultiOmics/results/spearman.multiomics.merged.filtered.users.gml outputfile PlumaPipline/MultiOmics/results/spearman.multiomics.merged.filtered.users.graphml
+Plugin Abund2XML inputfile parameters/parameters.abund2xml.users.txt outputfile PlumaPipline/results/multiomicsNetwork/styleUsers.xml
+Plugin Abund2XML inputfile parameters/parameters.abund2xml.nonusers.txt outputfile PlumaPipline/results/multiomicsNetwork/styleNonUsers.xml
+Plugin CSVMap inputfile parameters/parameters.csvmap.users.txt outputfile PlumaPipline/MultiOmics/multiomics.users.renamed.csv
+Plugin CSVMap inputfile parameters/parameters.csvmap.nonUsers.txt outputfile PlumaPipline/MultiOmics/multiomics.nonUsers.renamed.csv
+Plugin GMLMap inputfile parameters/parameters.gmlmap.users.txt outputfile PlumaPipline/MultiOmics/results/spearman.multiomics.merged.filtered.users.renamed.gml
+Plugin GMLMap inputfile parameters/parameters.gmlmap.nonUsers.txt outputfile PlumaPipline/MultiOmics/results/spearman.multiomics.merged.filtered.nonUsers.renamed.gml
+Plugin NOAMap inputfile parameters/parameters.noamap.txt outputfile PlumaPipline/results/multiomicsNetwork/labels.noa
+Plugin HeterogeneousXML inputfile parameters/parameters.heterogeneousxml.txt outputfile style.xml
+Plugin Alpha inputfile parameters/parameters.alpha.txt outputfile metadata/diversity.csv
+Plugin DiffCorr inputfile parameters/parameters.diffcorr.txt outputfile diffCorr
