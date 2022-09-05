@@ -1,0 +1,9 @@
+abundancefile	metabolomics/metabolon_transposed.csv
+out1	metabolon_transposed_users.csv
+out2	metabolon_transposed_nonUsers.csv
+dosplit	False
+metadata	metadata/metadata.txt
+group	COCAINE USE
+group1	User
+group2	Non-User
+ClientID	CLIENT IDENTIFIER

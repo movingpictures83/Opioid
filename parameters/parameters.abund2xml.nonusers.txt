@@ -1,0 +1,4 @@
+gmlfile	PlumaPipline/MultiOmics/results/spearman.multiomics.merged.filtered.nonUsers.gml
+styleName	nonUsers_style1
+abundance	PlumaPipline/MultiOmics/multiomics.users.csv
+metadata	metadata/metabolites_names.txt

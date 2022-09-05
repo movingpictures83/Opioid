@@ -1,0 +1,4 @@
+control	PlumaPipline/MultiOmics/results//spearman.multiomics.merged.filtered.nonUsers.csv
+disease	PlumaPipline/MultiOmics/results//spearman.multiomics.merged.filtered.users.csv
+numcontrol	25
+numdisease	25
