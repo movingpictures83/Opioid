@@ -1,0 +1,100 @@
+# Multiomics analysis pipeline
+Prefix /lclhome/vsteb002/SabrinaProject/PlumaPipline/MultiOmics
+
+#######################################
+# NORMALIZE ABUNDANCES
+#######################################
+# Assuming that abundance is already normalized
+
+
+#######################################
+# MICROBE-MICROBE CORRELATIONS
+#######################################
+####
+#### Non Users
+####
+Plugin Spearman inputfile abund.nonUsers.plumaIn.csv outputfile correlations.microbe.pvalued.nonUsers.csv
+Plugin CSVPad inputfile correlations.microbe.pvalued.nonUsers.csv outputfile spearman.microbe.nonUsers.csv
+####
+#### Users
+####
+Plugin Spearman inputfile abund.users.plumaIn.csv outputfile correlations.microbe.pvalued.users.csv
+Plugin CSVPad inputfile correlations.microbe.pvalued.users.csv outputfile spearman.microbe.users.csv
+#######################################
+
+#######################################
+#
+# METABOLITE-METABOLITE CORRELATIONS
+#
+####
+#### Non Users
+####
+Plugin Spearman inputfile metabolon_transposed_nonUsers.csv outputfile correlations.metabolite.pvalued.nonUsers.csv
+Plugin CSVPad inputfile correlations.metabolite.pvalued.nonUsers.csv outputfile spearman.metabolite.nonUsers.csv
+Plugin PathwayFilter inputfile nonUsersPathwayFilterFiles.txt outputfile spearman.metabolite.filtered.nonUsers.csv
+####
+#### Users
+####
+Plugin Spearman inputfile metabolon_transposed_users.csv outputfile correlations.metabolite.pvalued.users.csv
+Plugin CSVPad inputfile correlations.metabolite.pvalued.users.csv outputfile spearman.metabolite.users.csv
+Plugin PathwayFilter inputfile usersPathwayFilterFiles.txt outputfile spearman.metabolite.filtered.users.csv
+#######################################
+
+
+#######################################
+# MICROBE-METABOLITE
+###
+### Non Users
+###
+Plugin Rank inputfile abund.nonUsers.plumaIn.csv outputfile ranks.microbe.nonUsers.csv
+Plugin Rank inputfile metabolon_transposed_nonUsers.csv outputfile ranks.metabolite.nonUsers.csv
+Plugin SpearmanMulti inputfile ranks.nonUsers.txt outputfile spearman.microbe.metabolite.nonUsers.csv
+Plugin PathwayFilter inputfile files2.nonUsers.txt outputfile spearman.microbe.metabolite.filtered.nonUsers.csv
+Plugin CSVPad inputfile spearman.microbe.metabolite.filtered.nonUsers.csv outputfile spearman.multiomics.nonUsers.csv
+###
+### users
+###
+Plugin Rank inputfile abund.users.plumaIn.csv outputfile ranks.microbe.users.csv
+Plugin Rank inputfile metabolon_transposed_users.csv outputfile ranks.metabolite.users.csv
+Plugin SpearmanMulti inputfile ranks.users.txt outputfile spearman.microbe.metabolite.users.csv
+Plugin PathwayFilter inputfile files2.users.txt outputfile spearman.microbe.metabolite.filtered.users.csv
+Plugin CSVPad inputfile spearman.microbe.metabolite.filtered.users.csv outputfile spearman.multiomics.users.csv
+#######################################
+
+#######################################
+# MULTIOMICS (MERGE ALL THREE)
+###
+### Non Users
+###
+Plugin CSVMerge inputfile files.nonUsers.txt outputfile spearman.multiomics.merged.nonUsers.csv
+###
+### users
+###
+Plugin CSVMerge inputfile files.users.txt outputfile spearman.multiomics.merged.users.csv
+#######################################
+
+#######################################
+# ONE FINAL FILTER (MICROBES WITH PATHS)
+Plugin FilterMicrobes inputfile spearman.multiomics.merged.nonUsers.csv outputfile spearman.multiomics.merged.filtered.nonUsers.csv
+Plugin FilterMicrobes inputfile spearman.multiomics.merged.users.csv outputfile spearman.multiomics.merged.filtered.users.csv
+#######################################
+
+#######################################
+# FIND USEFUL PATHWAYS
+Plugin FilterPathway inputfile files3.nonUsers.txt outputfile pathwayinfo.filtered.nonUsers.txt
+Plugin FilterPathway inputfile files3.users.txt outputfile pathwayinfo.filtered.users.txt
+#######################################
+
+#######################################
+# CONVERT FOR VISUALIZATION
+Plugin CSV2GML inputfile spearman.multiomics.merged.nonUsers.csv outputfile spearman.multiomics.merged.nonUsers.gml
+Plugin CSV2GML inputfile spearman.multiomics.merged.filtered.nonUsers.csv outputfile spearman.multiomics.merged.filtered.nonUsers.gml
+Plugin CSV2GML inputfile spearman.multiomics.merged.users.csv outputfile spearman.multiomics.merged.users.gml
+Plugin CSV2GML inputfile spearman.multiomics.merged.filtered.users.csv outputfile spearman.multiomics.merged.filtered.users.gml
+#######################################
+
+#######################################
+# CENTRALITY
+Plugin ATria inputfile spearman.multiomics.merged.filtered.nonUsers.csv outputfile spearman.multiomics.merged.filtered.nonUsers.noa
+Plugin ATria inputfile spearman.multiomics.merged.filtered.users.csv outputfile spearman.multiomics.merged.filtered.users.noa
+#######################################

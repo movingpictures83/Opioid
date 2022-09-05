@@ -1,0 +1,865 @@
+PATHWAY: guanosine deoxyribonucleotides de novo biosynthesis I INVOLVES: HMDB01341	human	Bacillus	
+PATHWAY: sphingosine and sphingosine-1-phosphate metabolism INVOLVES: HMDB00224	HMDB00252	HMDB00277	HMDB01341	human	
+PATHWAY: candicidin biosynthesis INVOLVES: HMDB01341	Actinomyces	
+PATHWAY: TCA cycle VII (acetate-producers) INVOLVES: HMDB00254	HMDB00094	HMDB00208	HMDB00156	HMDB00134	Bacillus	
+PATHWAY: cob(II)yrinate a,c-diamide biosynthesis II (late cobalt incorporation) INVOLVES: HMDB00641	HMDB00148	HMDB01341	HMDB00939	Streptococcus	Pseudomonas	
+PATHWAY: trehalose biosynthesis II INVOLVES: HMDB01341	Bacillus	
+PATHWAY: holomycin biosynthesis INVOLVES: HMDB00574	HMDB00045	Actinomyces	
+PATHWAY: fatty acid &alpha;-oxidation III INVOLVES: HMDB00045	human	
+PATHWAY: citronellol degradation INVOLVES: HMDB00045	Bacillus	Pseudomonas	
+PATHWAY: S-adenosyl-L-methionine cycle II INVOLVES: HMDB00939	HMDB00696	Bacillus	
+PATHWAY: dopamine degradation INVOLVES: HMDB06275	HMDB00118	HMDB00939	human	
+PATHWAY: L-lysine degradation X INVOLVES: HMDB00254	HMDB00661	HMDB00208	HMDB00148	HMDB00182	Bacillus	Pseudomonas	
+PATHWAY: oxalate degradation II INVOLVES: HMDB00254	HMDB02329	Oxalobacter	
+PATHWAY: spermidine biosynthesis I INVOLVES: HMDB01257	HMDB01173	human	Bacillus	
+PATHWAY: hexitol fermentation to lactate, formate, ethanol and acetate INVOLVES: HMDB00045	HMDB01341	HMDB00190	HMDB00243	Streptococcus	Staphylococcus	
+PATHWAY: GDP-L-fucose biosynthesis II (from L-fucose) INVOLVES: HMDB01341	human	
+PATHWAY: 4-aminobutanoate degradation II INVOLVES: HMDB00254	HMDB00208	HMDB00148	Ralstonia	
+PATHWAY: glycine betaine degradation I INVOLVES: HMDB00243	HMDB00187	HMDB00123	HMDB00271	HMDB00043	HMDB00696	HMDB00092	Bacillus	Pseudomonas	Corynebacterium	
+PATHWAY: mRNA capping II INVOLVES: HMDB00939	human	
+PATHWAY: nicotinate degradation III INVOLVES: HMDB00243	Clostridium	
+PATHWAY: UDP-2,3-diacetamido-2,3-dideoxy-&alpha;-D-mannuronate biosynthesis INVOLVES: HMDB00208	HMDB00148	Haemophilus	Pseudomonas	
+PATHWAY: L-glutamate degradation V (via hydroxyglutarate) INVOLVES: HMDB01341	HMDB00039	HMDB00148	HMDB00208	Fusobacterium	Staphylococcus	Acidaminococcus	Clostridium	Peptococcus	Corynebacterium	Peptoniphilus	Bacteroides	Peptostreptococcus	
+PATHWAY: L-citrulline biosynthesis INVOLVES: HMDB00162	HMDB01341	HMDB00904	HMDB00208	HMDB01301	HMDB00517	HMDB00294	HMDB00641	HMDB00148	human	
+PATHWAY: alginate degradation INVOLVES: HMDB01341	HMDB01353	Sphingomonas	
+PATHWAY: yersiniabactin biosynthesis INVOLVES: HMDB01895	HMDB00574	HMDB00939	HMDB00045	Bacillus	
+PATHWAY: superpathway of CMP-sialic acids biosynthesis INVOLVES: HMDB01341	Bacteroides	Neisseria	Campylobacter	human	Bacillus	
+PATHWAY: catechol degradation III (ortho-cleavage pathway) INVOLVES: HMDB00254	Acinetobacter	Ralstonia	Bacillus	Neisseria	Pseudomonas	Agrobacterium	Achromobacter	
+PATHWAY: pyruvate fermentation to isobutanol (engineered) INVOLVES: HMDB00019	HMDB12141	HMDB00243	Lactococcus	Streptococcus	Leuconostoc	Bacillus	
+PATHWAY: sinapate ester biosynthesis INVOLVES: HMDB00156	HMDB00097	Raphanus	
+PATHWAY: L-tryptophan biosynthesis INVOLVES: HMDB00187	HMDB00929	HMDB00641	HMDB00148	HMDB00243	HMDB01123	Bacillus	
+PATHWAY: L-tryptophan degradation IX INVOLVES: HMDB00243	HMDB00929	HMDB00161	HMDB00684	Bacillus	
+PATHWAY: phosphatidylcholine biosynthesis I INVOLVES: HMDB00097	HMDB01565	HMDB01341	Treponema	human	
+PATHWAY: thiosulfate oxidation IV (multienzyme complex) INVOLVES: HMDB01448	Bacillus	
+PATHWAY: aldoxime degradation INVOLVES: HMDB01406	Staphylococcus	Pseudomonas	Bacillus	
+PATHWAY: L-ornithine degradation II (Stickland reaction) INVOLVES: HMDB00162	HMDB01301	HMDB00208	HMDB00148	HMDB03374	Clostridium	Propionibacterium	Corynebacterium	Bacillus	
+PATHWAY: ketogluconate metabolism INVOLVES: HMDB01341	HMDB00625	Corynebacterium	
+PATHWAY: glycerol-3-phosphate shuttle INVOLVES: HMDB00126	human	
+PATHWAY: L-rhamnose degradation III INVOLVES: HMDB00243	HMDB00190	Sphingomonas	
+PATHWAY: propanoyl CoA degradation I INVOLVES: HMDB01341	human	Propionibacterium	
+PATHWAY: L-pyrrolysine biosynthesis INVOLVES: HMDB00182	HMDB01341	Bilophila	
+PATHWAY: L-histidine degradation I INVOLVES: HMDB00148	HMDB00854	HMDB00177	HMDB00301	Clostridium	Bacillus	
+PATHWAY: ribitol degradation INVOLVES: HMDB01341	HMDB00508	Bacillus	
+PATHWAY: pyridoxal 5'-phosphate salvage I INVOLVES: HMDB01545	HMDB01341	human	
+PATHWAY: ubiquinol-8 biosynthesis (prokaryotic) INVOLVES: HMDB00939	Acinetobacter	Ralstonia	Bacillus	Haemophilus	Pseudomonas	Achromobacter	
+PATHWAY: menaquinol-12 biosynthesis INVOLVES: HMDB00939	Prevotella	Bacteroides	Corynebacterium	
+PATHWAY: vancomycin resistance II INVOLVES: HMDB01341	HMDB00187	Streptococcus	Enterococcus	
+PATHWAY: acetyl-CoA biosynthesis III (from citrate) INVOLVES: HMDB01341	HMDB00094	human	
+PATHWAY: glyphosate degradation III INVOLVES: HMDB00045	HMDB01341	HMDB00271	HMDB00696	HMDB00034	Agrobacterium	Ochrobactrum	Bacillus	Pseudomonas	
+PATHWAY: superpathway of pyrimidine ribonucleotides de novo biosynthesis INVOLVES: HMDB00226	HMDB00191	HMDB01341	HMDB00641	HMDB00148	human	
+PATHWAY: petrobactin biosynthesis INVOLVES: HMDB00094	HMDB01257	HMDB00045	Pseudomonas	Bacillus	
+PATHWAY: 2,4-dichlorophenoxyacetate  degradation INVOLVES: HMDB00208	HMDB00254	Ralstonia	Pseudomonas	
+PATHWAY: ferulate degradation INVOLVES: HMDB00045	Actinomyces	Sphingomonas	Pseudomonas	
+PATHWAY: superpathway of pyrimidine deoxyribonucleoside salvage INVOLVES: HMDB00012	HMDB01341	human	Bacillus	
+PATHWAY: type I lipoteichoic acid biosynthesis (S. aureus) INVOLVES: HMDB00045	HMDB00126	HMDB01341	Streptococcus	Staphylococcus	Corynebacterium	Bacillus	
+PATHWAY: achromobactin biosynthesis INVOLVES: HMDB00208	HMDB00187	HMDB00094	HMDB00045	Pseudomonas	
+PATHWAY: L-lysine biosynthesis I INVOLVES: HMDB00191	HMDB01341	HMDB00243	HMDB00208	HMDB00148	HMDB00254	HMDB00182	Bacillus	Haemophilus	Helicobacter	Corynebacterium	Campylobacter	Achromobacter	
+PATHWAY: pyruvate fermentation to acetate IV INVOLVES: HMDB01341	HMDB00243	Streptococcus	Enterococcus	
+PATHWAY: L-glutamate and L-glutamine biosynthesis INVOLVES: HMDB01341	HMDB00641	HMDB00148	HMDB00208	Ruminococcus	human	
+PATHWAY: indole-3-acetate degradation VIII (bacterial) INVOLVES: HMDB00197	HMDB01123	Sphingomonas	Pseudomonas	
+PATHWAY: thiamine salvage III INVOLVES: HMDB00045	Staphylococcus	Bacillus	
+PATHWAY: CMP-2-keto-3-deoxy-D-glycero-D-galacto-nononate biosynthesis INVOLVES: HMDB01341	Bacteroides	
+PATHWAY: L-lyxonate degradation INVOLVES: HMDB00208	Pseudomonas	
+PATHWAY: superpathway of L-lysine degradation INVOLVES: HMDB01341	HMDB00039	HMDB00060	HMDB00206	HMDB00254	HMDB00661	HMDB00510	HMDB00208	HMDB00148	HMDB00243	HMDB00161	HMDB00182	Fusobacterium	Veillonella	Bacillus	Clostridium	Staphylococcus	Corynebacterium	Porphyromonas	Selenomonas	human	Pseudomonas	Agrobacterium	Bacteroides	Anaerovibrio	Achromobacter	
+PATHWAY: creatinine degradation III INVOLVES: HMDB00294	HMDB00562	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: L-alanine biosynthesis III INVOLVES: HMDB00574	HMDB00161	human	Bacillus	
+PATHWAY: acetate formation from acetyl-CoA I INVOLVES: HMDB01341	Clostridium	Mycoplasma	
+PATHWAY: superpathway of bacteriochlorophyll a biosynthesis INVOLVES: HMDB00123	HMDB00696	HMDB00939	HMDB01341	Bacillus	
+PATHWAY: sulfate reduction IV (dissimilatory, to hydrogen sufide)) INVOLVES: HMDB00045	HMDB01448	Bilophila	Clostridium	Desulfovibrio	Bacillus	
+PATHWAY: (+)-camphor degradation INVOLVES: HMDB00045	Pseudomonas	
+PATHWAY: acetate formation from acetyl-CoA II INVOLVES: HMDB01341	Selenomonas	
+PATHWAY: icosapentaenoate biosynthesis II (6-desaturase, mammals) INVOLVES: HMDB00045	human	
+PATHWAY: D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis INVOLVES: HMDB01341	human	
+PATHWAY: trehalose degradation IV INVOLVES: HMDB01341	Bacillus	
+PATHWAY: superpathway of D-myo-inositol (1,4,5)-trisphosphate metabolism INVOLVES: HMDB00211	HMDB01341	human	
+PATHWAY: L-arginine degradation VIII (arginine oxidase pathway) INVOLVES: HMDB03464	HMDB00294	HMDB00517	HMDB04225	Bacillus	Pseudomonas	
+PATHWAY: oleandomycin biosynthesis INVOLVES: HMDB00939	Actinomyces	
+PATHWAY: neomycin biosynthesis INVOLVES: HMDB00208	HMDB00148	Actinomyces	
+PATHWAY: octane oxidation INVOLVES: HMDB00045	HMDB00482	Pseudomonas	
+PATHWAY: glycerol degradation II INVOLVES: HMDB01341	HMDB00131	Bacillus	
+PATHWAY: homotaurine degradation INVOLVES: HMDB00208	HMDB00148	Ralstonia	
+PATHWAY: L-leucine degradation I INVOLVES: HMDB00060	HMDB01341	HMDB00208	HMDB00148	HMDB00695	Bacillus	human	Pseudomonas	
+PATHWAY: vibriobactin biosynthesis INVOLVES: HMDB00167	HMDB00045	HMDB00243	Bacillus	
+PATHWAY: superpathway of polyamine biosynthesis II INVOLVES: HMDB01256	HMDB00517	HMDB01257	HMDB01173	Bacillus	human	Pseudomonas	
+PATHWAY: pyrimidine deoxyribonucleotides de novo biosynthesis I INVOLVES: HMDB01341	human	
+PATHWAY: poly(glycerol phosphate) wall teichoic acid biosynthesis INVOLVES: HMDB00045	HMDB01341	HMDB00126	Weissella	Lactobacillus	Bacillus	
+PATHWAY: inosine-5'-phosphate biosynthesis II INVOLVES: HMDB00175	HMDB00134	HMDB00191	HMDB01341	human	
+PATHWAY: flavin biosynthesis I (bacteria and plants) INVOLVES: HMDB01248	HMDB01341	Bacillus	
+PATHWAY: pyruvate fermentation to acetate and lactate I INVOLVES: HMDB00190	HMDB01341	HMDB00243	Mycoplasma	
+PATHWAY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation INVOLVES: HMDB01341	HMDB00243	Clostridium	Bacillus	
+PATHWAY: urate biosynthesis/inosine 5'-phosphate degradation INVOLVES: HMDB00289	HMDB00292	HMDB00299	HMDB00175	human	
+PATHWAY: siroheme biosynthesis INVOLVES: HMDB00939	Paracoccus	Pseudomonas	Bacillus	
+PATHWAY: superpathway of pentose and pentitol degradation INVOLVES: HMDB00156	HMDB00243	HMDB00208	HMDB00508	HMDB01341	Providencia	Pseudomonas	Bacillus	
+PATHWAY: adenosine deoxyribonucleotides de novo biosynthesis INVOLVES: HMDB01341	human	Bacillus	
+PATHWAY: bacterial bioluminescence INVOLVES: HMDB00045	Streptococcus	Achromobacter	Acinetobacter	Pseudomonas	Bacillus	
+PATHWAY: indole-3-acetate biosynthesis IV (bacteria) INVOLVES: HMDB00197	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: ethylmalonyl-CoA pathway INVOLVES: HMDB00156	HMDB01341	Paracoccus	Streptococcus	Actinomyces	Pseudomonas	
+PATHWAY: preQ<sub>0</sub> biosynthesis INVOLVES: HMDB01341	Bacillus	
+PATHWAY: superpathway of N-acetylneuraminate degradation INVOLVES: HMDB00045	HMDB01341	HMDB00243	Streptococcus	Clostridium	Bacillus	Peptococcus	Abiotrophia	
+PATHWAY: superpathway of taurine degradation INVOLVES: HMDB00148	HMDB00208	HMDB00254	HMDB00251	HMDB00243	HMDB00161	Paracoccus	Bilophila	Achromobacter	
+PATHWAY: ethanol degradation III INVOLVES: HMDB00045	human	
+PATHWAY: 4-hydroxybenzoate biosynthesis II (microbes) INVOLVES: HMDB00243	Bacillus	
+PATHWAY: 8-amino-7-oxononanoate biosynthesis I INVOLVES: HMDB00161	HMDB00939	Haemophilus	Helicobacter	
+PATHWAY: inosine-5'-phosphate biosynthesis I INVOLVES: HMDB00175	HMDB00134	HMDB00191	HMDB01341	Bacillus	
+PATHWAY: L-cysteine biosynthesis V INVOLVES: HMDB00574	HMDB00045	Bacillus	
+PATHWAY: sucrose degradation VII (sucrose 3-dehydrogenase) INVOLVES: HMDB01341	HMDB00660	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: nopaline degradation INVOLVES: HMDB00208	HMDB00517	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: NAD salvage pathway III INVOLVES: HMDB01341	HMDB00855	HMDB00045	Lactococcus	Streptococcus	Haemophilus	Aggregatibacter	Bacillus	
+PATHWAY: 2,3-dihydroxybenzoate biosynthesis INVOLVES: HMDB00243	Bacillus	
+PATHWAY: morphine biosynthesis INVOLVES: HMDB00208	HMDB00254	human	
+PATHWAY: pyruvate fermentation to acetate I INVOLVES: HMDB01341	HMDB00243	Clostridium	Bacillus	
+PATHWAY: fatty acid salvage INVOLVES: HMDB00511	HMDB00045	Pseudomonas	
+PATHWAY: superpathway of quinolone and alkylquinolone biosynthesis INVOLVES: HMDB00045	HMDB00641	HMDB01123	HMDB00148	HMDB00243	Bacillus	Pseudomonas	
+PATHWAY: mandelate degradation to acetyl-CoA INVOLVES: HMDB00243	HMDB00254	HMDB01870	Bacillus	Pseudomonas	
+PATHWAY: L-alanine biosynthesis II INVOLVES: HMDB00161	HMDB00208	HMDB00148	HMDB00243	human	
+PATHWAY: superpathway of adenosine nucleotides de novo biosynthesis I INVOLVES: HMDB01341	HMDB00134	HMDB00045	HMDB00175	HMDB00191	human	Bacillus	
+PATHWAY: L-lysine degradation V INVOLVES: HMDB00254	HMDB00661	HMDB00208	HMDB00148	HMDB00510	HMDB00182	Bacillus	Pseudomonas	
+PATHWAY: glycolate degradation II INVOLVES: HMDB00254	Lachnospira	
+PATHWAY: L-cysteine biosynthesis VI (from L-methionine) INVOLVES: HMDB00574	HMDB00254	HMDB00187	HMDB00099	HMDB00696	HMDB00939	HMDB00034	Helicobacter	
+PATHWAY: CMP-N-acetylneuraminate biosynthesis I (eukaryotes) INVOLVES: HMDB01341	human	
+PATHWAY: bacilysin biosynthesis INVOLVES: HMDB00161	HMDB01341	HMDB00159	HMDB00205	Bacillus	
+PATHWAY: superpathway of testosterone and androsterone degradation INVOLVES: HMDB00045	HMDB00243	Bacillus	Corynebacterium	Pseudomonas	
+PATHWAY: indole-3-acetate biosynthesis III (bacteria) INVOLVES: HMDB00197	HMDB00929	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde INVOLVES: HMDB00929	HMDB00161	HMDB00684	human	
+PATHWAY: toluene degradation I (aerobic) (<I>via</I> o</I>-cresol) INVOLVES: HMDB00243	Pseudomonas	
+PATHWAY: isoprene biosynthesis II (engineered) INVOLVES: HMDB01341	Streptococcus	Enterococcus	
+PATHWAY: adenine salvage INVOLVES: HMDB00045	HMDB00034	HMDB00175	HMDB00157	Bacillus	
+PATHWAY: choline degradation I INVOLVES: HMDB00097	HMDB00043	Bacillus	human	Pseudomonas	
+PATHWAY: siroheme amide biosynthesis INVOLVES: HMDB00641	HMDB00148	HMDB01341	Desulfovibrio	Bacillus	
+PATHWAY: inositol pyrophosphates biosynthesis INVOLVES: HMDB01341	human	
+PATHWAY: adenosine ribonucleotides de novo biosynthesis INVOLVES: HMDB01341	HMDB00134	HMDB00045	HMDB00175	HMDB00191	human	Bacillus	
+PATHWAY: adenosylcobalamin biosynthesis from cobyrinate a,c-diamide II INVOLVES: HMDB00641	HMDB00148	HMDB01341	Pseudomonas	
+PATHWAY: L-glutamine biosynthesis I INVOLVES: HMDB00148	HMDB00641	HMDB01341	Ruminococcus	human	
+PATHWAY: trehalose degradation I (low osmolarity) INVOLVES: HMDB01341	Bacillus	
+PATHWAY: superpathway of menaquinol-8 biosynthesis II INVOLVES: HMDB00939	Streptococcus	Actinomyces	
+PATHWAY: L-glutamate degradation VI (to pyruvate) INVOLVES: HMDB00148	HMDB00243	Clostridium	Selenomonas	Bacillus	
+PATHWAY: pyruvate fermentation to acetate II INVOLVES: HMDB01341	HMDB00243	Mycoplasma	
+PATHWAY: menaquinol-7 biosynthesis INVOLVES: HMDB00939	Prevotella	Lactobacillus	Bacillus	Lactococcus	Clostridium	Staphylococcus	Corynebacterium	Streptococcus	Bacteroides	
+PATHWAY: &gamma;-glutamyl cycle INVOLVES: HMDB00267	HMDB00078	HMDB00123	HMDB00574	HMDB00148	HMDB01341	human	
+PATHWAY: bile acids degradation INVOLVES: HMDB00626	HMDB00045	HMDB00637	HMDB00138	HMDB00123	HMDB00036	HMDB00619	HMDB00951	HMDB00518	HMDB00251	Bifidobacterium	Bacillus	Clostridium	Eggerthella	Ruminococcus	Bacteroides	
+PATHWAY: cardiolipin biosynthesis II INVOLVES: HMDB00126	human	
+PATHWAY: nylon-6 oligomer degradation INVOLVES: HMDB00448	HMDB00208	HMDB00148	Paracoccus	Staphylococcus	Acinetobacter	Pseudomonas	Bacillus	
+PATHWAY: 2-methylisoborneol biosynthesis INVOLVES: HMDB00939	Actinomyces	
+PATHWAY: (R)- and (S)-3-hydroxybutanoate biosynthesis (engineered) INVOLVES: HMDB00357	Clostridium	Ralstonia	
+PATHWAY: xylitol degradation INVOLVES: HMDB01341	Providencia	Bacillus	
+PATHWAY: L-methionine degradation II INVOLVES: HMDB00005	HMDB00696	Bacillus	Pseudomonas	
+PATHWAY: 4-deoxy-L-threo-hex-4-enopyranuronate degradation INVOLVES: HMDB00243	HMDB01341	HMDB01353	Streptococcus	Pseudomonas	Achromobacter	Bacillus	
+PATHWAY: ketolysis INVOLVES: HMDB00254	HMDB00357	HMDB00060	human	
+PATHWAY: plasmalogen degradation INVOLVES: HMDB00097	HMDB00114	HMDB00224	HMDB01565	human	
+PATHWAY: formaldehyde assimilation I (serine pathway) INVOLVES: HMDB00187	HMDB00123	HMDB00139	HMDB00156	HMDB01341	Pseudomonas	
+PATHWAY: menaquinol-6 biosynthesis INVOLVES: HMDB00939	Staphylococcus	Bacillus	Desulfovibrio	Campylobacter	Capnocytophaga	Bacteroides	Helicobacter	
+PATHWAY: dimethyl sulfide biosynthesis from methionine INVOLVES: HMDB00939	HMDB00696	HMDB00005	Pseudomonas	
+PATHWAY: phenolphthiocerol biosynthesis INVOLVES: HMDB00939	HMDB00243	HMDB00045	Mycoplasma	Bacillus	
+PATHWAY: superpathway of demethylmenaquinol-6 biosynthesis I INVOLVES: HMDB00243	HMDB00208	HMDB00045	Haemophilus	
+PATHWAY: superpathway of purine nucleotides de novo biosynthesis I INVOLVES: HMDB00045	HMDB00175	HMDB00134	HMDB00191	HMDB00123	HMDB01341	HMDB00148	HMDB00641	human	
+PATHWAY: S-adenosyl-L-methionine cycle I INVOLVES: HMDB00696	HMDB00939	HMDB00034	Achromobacter	Enterococcus	Bacillus	
+PATHWAY: adenosylcobalamin biosynthesis from cobyrinate a,c-diamide I INVOLVES: HMDB00641	HMDB00148	HMDB01341	Bacillus	Pseudomonas	Propionibacterium	
+PATHWAY: 1,2-propanediol biosynthesis from lactate (engineered) INVOLVES: HMDB00190	Peptostreptococcus	Megasphaera	
+PATHWAY: ketogenesis INVOLVES: HMDB00357	HMDB00060	human	
+PATHWAY: UMP biosynthesis I INVOLVES: HMDB00226	HMDB00191	HMDB01341	HMDB00641	HMDB00148	human	
+PATHWAY: 3-dimethylallyl-4-hydroxybenzoate biosynthesis INVOLVES: HMDB00707	Actinomyces	
+PATHWAY: Ac/N-end rule pathway INVOLVES: HMDB00696	human	
+PATHWAY: superpathway of erythromycin biosynthesis (without sugar biosynthesis) INVOLVES: HMDB00939	Actinomyces	
+PATHWAY: choline degradation II INVOLVES: HMDB00097	HMDB00043	Achromobacter	Corynebacterium	
+PATHWAY: dibenzofuran degradation INVOLVES: HMDB01895	Sphingomonas	
+PATHWAY: pregnenolone biosynthesis INVOLVES: HMDB00067	human	
+PATHWAY: biotin biosynthesis from 8-amino-7-oxononanoate I INVOLVES: HMDB00696	HMDB01341	Corynebacterium	
+PATHWAY: TCA cycle V (2-oxoglutarate:ferredoxin oxidoreductase) INVOLVES: HMDB01341	HMDB00148	HMDB00208	HMDB00254	HMDB00156	HMDB00134	HMDB00094	Bacillus	
+PATHWAY: L-methionine biosynthesis III INVOLVES: HMDB00696	Corynebacterium	
+PATHWAY: aromatic compounds degradation via &beta;-ketoadipate INVOLVES: HMDB00254	Bacillus	Pseudomonas	
+PATHWAY: 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis INVOLVES: HMDB00696	HMDB01341	Bacillus	
+PATHWAY: 4-aminobutanoate degradation V INVOLVES: HMDB00039	HMDB00208	HMDB00148	Clostridium	
+PATHWAY: nicotine degradation V INVOLVES: HMDB01046	human	
+PATHWAY: diphthamide biosynthesis (eukaryotes) INVOLVES: HMDB00939	HMDB01173	HMDB00045	human	
+PATHWAY: pyruvate fermentation to acetone INVOLVES: HMDB00039	HMDB00060	HMDB00243	Clostridium	Bacillus	
+PATHWAY: biotin-carboxyl carrier protein assembly INVOLVES: HMDB01341	HMDB00045	Corynebacterium	Mycoplasma	Pseudomonas	Propionibacterium	Bacillus	
+PATHWAY: cholesterol degradation to androstenedione I (cholesterol oxidase) INVOLVES: HMDB00067	HMDB00921	HMDB00045	Staphylococcus	Bacillus	Corynebacterium	
+PATHWAY: 3-amino-4,7-dihydroxy-coumarin biosynthesis INVOLVES: HMDB00158	HMDB00045	Actinomyces	
+PATHWAY: superpathway of demethylmenaquinol-6 biosynthesis II INVOLVES: HMDB00034	HMDB00696	Campylobacter	Helicobacter	
+PATHWAY: L-arginine degradation VII (arginase 3 pathway) INVOLVES: HMDB00517	HMDB00294	HMDB00162	Agrobacterium	Streptococcus	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: L-cysteine biosynthesis III (from L-homocysteine) INVOLVES: HMDB00005	HMDB00574	HMDB00187	HMDB00099	Lactobacillus	Bacillus	
+PATHWAY: molybdenum cofactor biosynthesis INVOLVES: HMDB00574	HMDB00161	HMDB00045	HMDB00696	Staphylococcus	human	
+PATHWAY: fatty acid &beta;-oxidation VI (peroxisome) INVOLVES: HMDB00045	human	
+PATHWAY: oxalate degradation III INVOLVES: HMDB02329	HMDB00254	Bacillus	Ralstonia	Pseudomonas	
+PATHWAY: methylglyoxal degradation VI INVOLVES: HMDB00243	human	
+PATHWAY: superpathway of UDP-<I>N-acetylglucosamine-derived O-antigen building blocks biosynthesis INVOLVES: HMDB00641	HMDB00208	HMDB00148	Bacillus	Pseudomonas	Helicobacter	Campylobacter	
+PATHWAY: L-arginine biosynthesis II (acetyl cycle) INVOLVES: HMDB00641	HMDB01138	HMDB01341	HMDB00208	HMDB00148	HMDB00517	HMDB00134	HMDB00904	HMDB00191	HMDB00045	Bacillus	Neisseria	Pseudomonas	Corynebacterium	
+PATHWAY: spermidine biosynthesis II INVOLVES: HMDB01257	HMDB00191	HMDB01341	Bacillus	Campylobacter	Pseudomonas	
+PATHWAY: formaldehyde assimilation II (RuMP Cycle) INVOLVES: HMDB01341	Bacillus	
+PATHWAY: superpathway of glycerol degradation to 1,3-propanediol INVOLVES: HMDB01341	HMDB00131	Clostridium	Lactobacillus	Bacillus	
+PATHWAY: thiamine salvage II INVOLVES: HMDB01341	Bacillus	
+PATHWAY: superpathway of L-threonine metabolism INVOLVES: HMDB00243	HMDB00208	HMDB00172	HMDB00148	HMDB01341	HMDB00005	HMDB00167	HMDB00123	Bacillus	
+PATHWAY: biotin biosynthesis II INVOLVES: HMDB00182	HMDB00696	HMDB01341	HMDB00161	HMDB00045	Bacillus	
+PATHWAY: L-glutamate degradation VIII (to propanoate) INVOLVES: HMDB00254	HMDB00156	HMDB00134	HMDB00148	HMDB00243	Selenomonas	
+PATHWAY: zwittermicin A biosynthesis INVOLVES: HMDB00696	HMDB00045	HMDB01248	HMDB00161	HMDB00187	HMDB00168	Bacillus	
+PATHWAY: 4-hydroxy-2-nonenal detoxification INVOLVES: HMDB00123	HMDB00148	human	
+PATHWAY: guanosine deoxyribonucleotides de novo biosynthesis II INVOLVES: HMDB01341	Bacillus	
+PATHWAY: glycine biosynthesis II INVOLVES: HMDB00123	human	
+PATHWAY: L-arginine degradation V (arginine deiminase pathway) INVOLVES: HMDB00517	HMDB01341	HMDB00904	Treponema	Lactobacillus	Bacillus	Clostridium	Streptococcus	Mycoplasma	Pseudomonas	
+PATHWAY: superpathway of cholesterol degradation I (cholesterol oxidase) INVOLVES: HMDB00067	HMDB00921	HMDB00045	HMDB00243	Staphylococcus	Bacillus	Corynebacterium	
+PATHWAY: ethylene biosynthesis V (engineered) INVOLVES: HMDB00208	HMDB00094	HMDB01341	Pseudomonas	
+PATHWAY: grixazone biosynthesis INVOLVES: HMDB00045	HMDB00191	HMDB01341	Actinomyces	
+PATHWAY: L-rhamnose degradation I INVOLVES: HMDB01341	Bacillus	
+PATHWAY: &beta;-alanine degradation II INVOLVES: HMDB00161	HMDB00056	HMDB00243	Bacillus	Pseudomonas	
+PATHWAY: L-serine degradation INVOLVES: HMDB00243	HMDB00187	human	
+PATHWAY: hydrogen sulfide biosynthesis II (mammalian) INVOLVES: HMDB00574	HMDB00099	human	
+PATHWAY: furfural degradation INVOLVES: HMDB00208	HMDB00045	Bacillus	Ralstonia	Pseudomonas	
+PATHWAY: superpathway of L-isoleucine biosynthesis I INVOLVES: HMDB00005	HMDB00243	HMDB00172	HMDB00167	HMDB01341	HMDB00208	HMDB00191	HMDB00148	Bacillus	
+PATHWAY: arsenate detoxification I (glutaredoxin) INVOLVES: HMDB00939	human	
+PATHWAY: creatinine degradation II INVOLVES: HMDB00562	HMDB00123	HMDB00271	HMDB01341	Pseudomonas	
+PATHWAY: L-cysteine biosynthesis I INVOLVES: HMDB00574	HMDB00187	Bacillus	
+PATHWAY: L-carnitine degradation II INVOLVES: HMDB00043	Agrobacterium	Bacillus	Pseudomonas	
+PATHWAY: Arg/N-end rule pathway (eukaryotic) INVOLVES: HMDB11745	HMDB00696	human	
+PATHWAY: octopine degradation INVOLVES: HMDB00243	HMDB00517	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: taurine degradation II INVOLVES: HMDB00251	Paracoccus	Achromobacter	
+PATHWAY: 4-hydroxyphenylacetate degradation INVOLVES: HMDB00254	HMDB00243	HMDB00020	HMDB01248	Bacillus	Acinetobacter	Pseudomonas	
+PATHWAY: mycothiol biosynthesis INVOLVES: HMDB00574	HMDB00045	Bacillus	Mycoplasma	Corynebacterium	
+PATHWAY: 2-oxobutanoate degradation I INVOLVES: HMDB01341	HMDB00005	human	
+PATHWAY: superpathway of L-cysteine biosynthesis (mammalian) INVOLVES: HMDB00005	HMDB00574	HMDB00187	HMDB00099	HMDB00939	HMDB00696	human	
+PATHWAY: fatty acid biosynthesis initiation I INVOLVES: HMDB01341	Pseudomonas	
+PATHWAY: sulfoacetate degradation INVOLVES: HMDB00045	Ralstonia	
+PATHWAY: UMP biosynthesis II INVOLVES: HMDB00134	HMDB00254	HMDB00226	HMDB00191	HMDB01341	HMDB00641	HMDB00148	Lactococcus	Streptococcus	Lactobacillus	
+PATHWAY: tetrahydrofolate biosynthesis INVOLVES: HMDB00148	HMDB01341	Lactococcus	Streptococcus	
+PATHWAY: tetracenomycin C biosynthesis INVOLVES: HMDB00939	Actinomyces	
+PATHWAY: D-galactose degradation V (Leloir pathway) INVOLVES: HMDB01341	human	
+PATHWAY: 3-methylbutanol biosynthesis (engineered) INVOLVES: HMDB00695	HMDB00019	Lactococcus	Streptococcus	
+PATHWAY: cholesterol biosynthesis I INVOLVES: HMDB00067	HMDB00032	human	
+PATHWAY: poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus) INVOLVES: HMDB01341	HMDB00045	HMDB00126	Streptococcus	Staphylococcus	
+PATHWAY: L-dopachrome biosynthesis INVOLVES: HMDB00158	human	Bacillus	
+PATHWAY: aromatic biogenic amine degradation (bacteria) INVOLVES: HMDB01248	HMDB00020	Pseudomonas	
+PATHWAY: L-arginine biosynthesis I (via L-ornithine) INVOLVES: HMDB00208	HMDB01138	HMDB01341	HMDB00641	HMDB00148	HMDB00517	HMDB00134	HMDB00904	HMDB00191	HMDB00045	Bacillus	
+PATHWAY: L-glutamate degradation X INVOLVES: HMDB00148	HMDB00208	human	Bacillus	
+PATHWAY: 1D-myo-inositol hexakisphosphate biosynthesis II (mammalian) INVOLVES: HMDB01341	human	
+PATHWAY: 3-phosphoinositide biosynthesis INVOLVES: HMDB00211	HMDB01341	human	
+PATHWAY: phenazine-1-carboxylate biosynthesis INVOLVES: HMDB00243	HMDB00641	HMDB00148	Bacillus	Pseudomonas	
+PATHWAY: mitochondrial L-carnitine shuttle INVOLVES: HMDB00201	human	
+PATHWAY: serotonin degradation INVOLVES: HMDB00574	HMDB00763	HMDB00259	human	
+PATHWAY: glutamate removal from folates INVOLVES: HMDB00148	human	
+PATHWAY: retinoate biosynthesis I INVOLVES: HMDB00305	human	
+PATHWAY: superpathway of menaquinol-6 biosynthesis I INVOLVES: HMDB00243	HMDB00208	HMDB00045	HMDB00939	Staphylococcus	Bacteroides	Desulfovibrio	Capnocytophaga	Bacillus	
+PATHWAY: pyruvate fermentation to ethanol II INVOLVES: HMDB00243	Clostridium	Pseudomonas	Achromobacter	Bacillus	
+PATHWAY: pyochelin biosynthesis INVOLVES: HMDB00574	HMDB00045	HMDB00939	HMDB01895	Bacillus	Pseudomonas	
+PATHWAY: L-selenocysteine biosynthesis II (archaea and eukaryotes) INVOLVES: HMDB01341	HMDB00187	HMDB00045	human	
+PATHWAY: 2-oxoglutarate decarboxylation to succinyl-CoA INVOLVES: HMDB00208	Pseudomonas	human	Bacillus	
+PATHWAY: pentalenolactone biosynthesis INVOLVES: HMDB00208	HMDB00254	Actinomyces	
+PATHWAY: acetyl-CoA fermentation to butanoate II INVOLVES: HMDB01341	HMDB00039	Clostridium	
+PATHWAY: superpathway of butirocin biosynthesis INVOLVES: HMDB00208	HMDB00696	HMDB00641	HMDB00267	HMDB00148	HMDB01341	Bacillus	
+PATHWAY: peptidoglycan biosynthesis IV (Enterococcus faecium) INVOLVES: HMDB00045	HMDB00182	HMDB00148	HMDB00161	HMDB01341	Streptococcus	Lactococcus	Enterococcus	Lactobacillus	
+PATHWAY: 3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic) INVOLVES: HMDB00696	HMDB00939	HMDB01341	Bacillus	
+PATHWAY: superpathway of cholesterol biosynthesis INVOLVES: HMDB01341	HMDB00067	HMDB00032	human	
+PATHWAY: superpathway of trimethylamine degradation INVOLVES: HMDB00925	HMDB00148	HMDB01341	Pseudomonas	
+PATHWAY: phosphinothricin tripeptide biosynthesis INVOLVES: HMDB00161	HMDB00045	HMDB00696	HMDB00939	Actinomyces	
+PATHWAY: dTDP-&alpha;-D-mycaminose biosynthesis INVOLVES: HMDB00208	HMDB00148	HMDB00939	Actinomyces	
+PATHWAY: 5,6-dimethylbenzimidazole biosynthesis II (anaerobic) INVOLVES: HMDB00696	HMDB00939	Bacteroides	
+PATHWAY: formate assimilation into 5,10-methylenetetrahydrofolate INVOLVES: HMDB01341	human	Pseudomonas	
+PATHWAY: isopropylamine degradation INVOLVES: HMDB00161	HMDB00148	HMDB01341	Pseudomonas	
+PATHWAY: superpathway of menaquinol-12 biosynthesis INVOLVES: HMDB00939	HMDB00243	HMDB00208	HMDB00045	Prevotella	Bacteroides	Corynebacterium	
+PATHWAY: L-ascorbate biosynthesis VI (engineered pathway) INVOLVES: HMDB00625	Pseudomonas	Corynebacterium	Bacillus	
+PATHWAY: ubiquinol-10 biosynthesis (eukaryotic) INVOLVES: HMDB00939	human	
+PATHWAY: superpathway of dTDP-glucose-derived O-antigen building blocks biosynthesis INVOLVES: HMDB00208	HMDB00148	Haemophilus	Aggregatibacter	Clostridium	
+PATHWAY: serotonin and melatonin biosynthesis INVOLVES: HMDB00929	HMDB00259	HMDB00939	human	
+PATHWAY: superpathway of guanosine nucleotides de novo biosynthesis II INVOLVES: HMDB01341	HMDB00641	HMDB00148	HMDB00045	HMDB00175	Bacillus	
+PATHWAY: (R)-acetoin biosynthesis I INVOLVES: HMDB00243	Pediococcus	Lactobacillus	Bacillus	Lactococcus	Weissella	Corynebacterium	Streptococcus	Leuconostoc	Pseudomonas	
+PATHWAY: pyrimidine deoxyribonucleotides de novo biosynthesis II INVOLVES: HMDB01341	Bacillus	
+PATHWAY: L-glucose degradation INVOLVES: HMDB00243	HMDB01341	Paracoccus	
+PATHWAY: glycine betaine biosynthesis II (Gram-positive bacteria) INVOLVES: HMDB00043	HMDB00097	Bacillus	
+PATHWAY: L-serine biosynthesis INVOLVES: HMDB00187	HMDB00208	HMDB00148	human	
+PATHWAY: allantoin degradation to glyoxylate I INVOLVES: HMDB00294	Bacillus	Pseudomonas	
+PATHWAY: S-methyl-5'-thioadenosine degradation III INVOLVES: HMDB00157	HMDB01173	Bacillus	Pseudomonas	
+PATHWAY: methylglyoxal degradation I INVOLVES: HMDB00243	Bacillus	human	Pseudomonas	
+PATHWAY: novobiocin biosynthesis INVOLVES: HMDB00158	HMDB00707	HMDB00045	HMDB00939	Actinomyces	
+PATHWAY: sulfoquinovose degradation II INVOLVES: HMDB00243	Pseudomonas	
+PATHWAY: UDP-yelosamine biosynthesis INVOLVES: HMDB00148	HMDB00208	HMDB01341	Bacillus	
+PATHWAY: sucrose degradation V (sucrose &alpha;-glucosidase) INVOLVES: HMDB00660	HMDB01341	human	
+PATHWAY: L-tryptophan degradation VII (via indole-3-pyruvate) INVOLVES: HMDB00197	HMDB00929	HMDB00208	HMDB00148	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: GDP-L-colitose biosynthesis INVOLVES: HMDB00148	HMDB00208	Bacillus	Providencia	
+PATHWAY: styrene degradation INVOLVES: HMDB01248	HMDB00209	Pseudomonas	
+PATHWAY: norspermidine biosynthesis INVOLVES: HMDB00208	HMDB00148	HMDB00191	HMDB01341	Bacillus	Pseudomonas	
+PATHWAY: L-histidine degradation III INVOLVES: HMDB00148	HMDB00854	HMDB00177	HMDB00301	human	
+PATHWAY: peptidoglycan biosynthesis III (mycobacteria) INVOLVES: HMDB00148	HMDB00161	HMDB01341	Mycoplasma	Bacillus	
+PATHWAY: 2-keto-L-gulonate biosynthesis INVOLVES: HMDB00247	Bacillus	
+PATHWAY: glycocholate metabolism (bacteria) INVOLVES: HMDB00138	HMDB00619	HMDB00123	Blautia	Bacteroides	Peptostreptococcus	Bifidobacterium	Clostridium	
+PATHWAY: <I>m</I>-cresol degradation INVOLVES: HMDB00152	Pseudomonas	
+PATHWAY: superpathway of (R,R)-butanediol biosynthesis INVOLVES: HMDB00243	Pediococcus	Lactobacillus	Bacillus	Lactococcus	Weissella	Corynebacterium	Streptococcus	Leuconostoc	Pseudomonas	
+PATHWAY: peptidoglycan cross-bridge biosynthesis II (E. faecium) INVOLVES: HMDB00045	HMDB01341	Lactococcus	Streptococcus	Enterococcus	Lactobacillus	Bacillus	
+PATHWAY: chorismate biosynthesis from 3-dehydroquinate INVOLVES: HMDB01341	Haemophilus	Bacillus	
+PATHWAY: thiamine diphosphate biosynthesis I (E. coli) INVOLVES: HMDB01341	Bacillus	
+PATHWAY: bacteriochlorophyll a biosynthesis INVOLVES: HMDB01341	Bacillus	
+PATHWAY: sucrose degradation IV (sucrose phosphorylase) INVOLVES: HMDB01341	HMDB00660	Bacteroides	Bifidobacterium	Lactobacillus	Actinomyces	Bacillus	
+PATHWAY: adenine and adenosine salvage I INVOLVES: HMDB00045	HMDB00034	Bacillus	Mycoplasma	human	Pseudomonas	
+PATHWAY: S-methyl-5'-thioadenosine degradation I INVOLVES: HMDB01341	HMDB01173	HMDB00034	Bacillus	
+PATHWAY: anandamide degradation INVOLVES: HMDB01043	human	
+PATHWAY: myo-, chiro- and scillo-inositol degradation INVOLVES: HMDB01341	HMDB00211	Bacillus	
+PATHWAY: glycolysis I (from glucose 6-phosphate) INVOLVES: HMDB00045	HMDB00243	HMDB01341	Mycoplasma	
+PATHWAY: cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion) INVOLVES: HMDB00939	HMDB00641	HMDB00148	HMDB01341	Propionibacterium	Bacillus	
+PATHWAY: N-acetylneuraminate and N-acetylmannosamine degradation I INVOLVES: HMDB01341	HMDB00243	Clostridium	Bacillus	
+PATHWAY: 4-chlorobenzoate degradation INVOLVES: HMDB00045	Acinetobacter	Pseudomonas	
+PATHWAY: phytol degradation INVOLVES: HMDB00045	human	
+PATHWAY: histamine biosynthesis INVOLVES: HMDB00177	Staphylococcus	Lactobacillus	Bacillus	Clostridium	Pediococcus	Leuconostoc	human	
+PATHWAY: sulfate activation for sulfonation INVOLVES: HMDB01341	HMDB01448	human	
+PATHWAY: L-tryptophan degradation III (eukaryotic) INVOLVES: HMDB00929	HMDB00161	HMDB00684	human	
+PATHWAY: 2-oxoisovalerate decarboxylation to isobutanoyl-CoA INVOLVES: HMDB00019	Pseudomonas	human	Bacillus	
+PATHWAY: bupropion degradation INVOLVES: HMDB00123	HMDB12235	human	
+PATHWAY: sitosterol degradation to androstenedione INVOLVES: HMDB01341	HMDB00045	HMDB00852	Pseudomonas	Corynebacterium	
+PATHWAY: retinol biosynthesis INVOLVES: HMDB00305	HMDB01358	human	
+PATHWAY: malonate degradation I (biotin-independent) INVOLVES: HMDB00691	Acinetobacter	Neisseria	Pseudomonas	Bacillus	
+PATHWAY: 4-aminobutanoate degradation III INVOLVES: HMDB00254	HMDB00208	HMDB00148	Bacillus	Ralstonia	Actinomyces	Pseudomonas	
+PATHWAY: L-arginine biosynthesis III (via N-acetyl-L-citrulline) INVOLVES: HMDB00208	HMDB01138	HMDB00856	HMDB01341	HMDB00641	HMDB00148	HMDB00517	HMDB00134	HMDB00904	HMDB00191	HMDB00045	Prevotella	Bacillus	Tannerella	Pseudomonas	Bacteroides	Achromobacter	
+PATHWAY: pyridoxal 5'-phosphate biosynthesis II INVOLVES: HMDB00641	HMDB00148	Bacillus	
+PATHWAY: L-isoleucine biosynthesis II INVOLVES: HMDB00208	HMDB00172	HMDB00148	HMDB00005	HMDB00243	Methanobrevibacter	
+PATHWAY: sphingomyelin metabolism INVOLVES: HMDB01565	human	
+PATHWAY: L-tryptophan degradation I (via anthranilate) INVOLVES: HMDB00929	HMDB00684	HMDB00161	HMDB01123	Haemophilus	Acinetobacter	Ralstonia	Pseudomonas	Bacillus	
+PATHWAY: lipoate biosynthesis and incorporation III (Bacillus) INVOLVES: HMDB00696	Bacillus	
+PATHWAY: superpathway of aerobic toluene degradation INVOLVES: HMDB00254	HMDB01870	HMDB00243	Ralstonia	Pseudomonas	
+PATHWAY: toluene degradation IV (aerobic) (via catechol) INVOLVES: HMDB00243	HMDB01870	Bacillus	Pseudomonas	
+PATHWAY: salicylate biosynthesis I INVOLVES: HMDB01895	HMDB00243	Pseudomonas	Bacillus	
+PATHWAY: L-phenylalanine degradation I (aerobic) INVOLVES: HMDB00159	HMDB00158	human	
+PATHWAY: 8-amino-7-oxononanoate biosynthesis II INVOLVES: HMDB00161	Bacillus	
+PATHWAY: L-lysine degradation IV INVOLVES: HMDB00254	HMDB00208	HMDB00148	HMDB00661	HMDB00182	Bacillus	Pseudomonas	
+PATHWAY: gallate degradation I INVOLVES: HMDB00243	Sphingomonas	Pseudomonas	
+PATHWAY: CMP phosphorylation INVOLVES: HMDB01341	human	
+PATHWAY: erythritol degradation I INVOLVES: HMDB02994	HMDB01341	Streptococcus	Bacillus	Ochrobactrum	
+PATHWAY: superpathway of menaquinol-8 biosynthesis I INVOLVES: HMDB00939	HMDB00243	HMDB00208	HMDB00045	Staphylococcus	Lactobacillus	Bacillus	Enterococcus	Corynebacterium	Streptococcus	Pseudomonas	
+PATHWAY: photosynthetic 3-hydroxybutanoate biosynthesis (engineered) INVOLVES: HMDB00243	HMDB01341	HMDB00357	Clostridium	Ralstonia	
+PATHWAY: purine nucleobases degradation I (anaerobic) INVOLVES: HMDB01341	HMDB00157	HMDB00289	HMDB00123	HMDB00292	Clostridium	Bacillus	
+PATHWAY: aspirin triggered resolvin E biosynthesis INVOLVES: HMDB01999	human	
+PATHWAY: L-ornithine biosynthesis II INVOLVES: HMDB01341	HMDB00148	HMDB00208	human	
+PATHWAY: superpathway of purine nucleotides de novo biosynthesis II INVOLVES: HMDB00045	HMDB00175	HMDB00134	HMDB00191	HMDB00123	HMDB01341	HMDB00148	HMDB00641	Bacillus	
+PATHWAY: L-glutamate degradation VII (to butanoate) INVOLVES: HMDB00148	HMDB00243	HMDB00039	HMDB01341	Clostridium	Bacillus	
+PATHWAY: L-carnitine degradation III INVOLVES: HMDB00243	HMDB00156	Acinetobacter	Neisseria	
+PATHWAY: menaquinol-8 biosynthesis INVOLVES: HMDB00939	Staphylococcus	Lactobacillus	Bacillus	Enterococcus	Corynebacterium	Streptococcus	Pseudomonas	
+PATHWAY: tetrapyrrole biosynthesis II (from glycine) INVOLVES: HMDB00123	human	
+PATHWAY: factor 420 biosynthesis INVOLVES: HMDB00707	HMDB00696	HMDB02329	HMDB00190	Bacillus	
+PATHWAY: trans-4-hydroxy-L-proline degradation I INVOLVES: HMDB00725	HMDB00243	HMDB00208	HMDB00148	human	
+PATHWAY: iso-bile acids biosynthesis I INVOLVES: HMDB00626	Eggerthella	
+PATHWAY: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis INVOLVES: HMDB00226	HMDB00191	HMDB00641	HMDB00148	HMDB01341	human	
+PATHWAY: L-aspartate degradation II INVOLVES: HMDB00156	HMDB00208	HMDB00191	HMDB00148	human	
+PATHWAY: GDP-glucose biosynthesis INVOLVES: HMDB01341	human	
+PATHWAY: adenosylcobalamin salvage from cobinamide I INVOLVES: HMDB01341	Bacillus	
+PATHWAY: L-lysine biosynthesis II INVOLVES: HMDB00182	HMDB00148	HMDB00208	HMDB00243	HMDB00191	HMDB01341	Clostridium	Bacillus	
+PATHWAY: 1,3-propanediol biosynthesis (engineered) INVOLVES: HMDB00126	HMDB00131	HMDB01341	Bacillus	
+PATHWAY: D-galactose degradation I (Leloir pathway) INVOLVES: HMDB01341	Streptococcus	Mycoplasma	
+PATHWAY: pyrimidine ribonucleosides salvage III INVOLVES: HMDB00300	HMDB00089	HMDB00630	Pseudomonas	
+PATHWAY: plasmalogen biosynthesis INVOLVES: HMDB00187	HMDB00224	HMDB00097	HMDB01565	HMDB01341	human	
+PATHWAY: the visual cycle I (vertebrates) INVOLVES: HMDB01358	HMDB00305	human	
+PATHWAY: mRNA capping I INVOLVES: HMDB00939	human	
+PATHWAY: superpathway of menaquinol-11 biosynthesis INVOLVES: HMDB00939	HMDB00243	HMDB00208	HMDB00045	Bacteroides	Bacillus	Prevotella	Corynebacterium	
+PATHWAY: phthiocerol biosynthesis INVOLVES: HMDB00939	HMDB00045	Bacillus	
+PATHWAY: NAD biosynthesis II (from tryptophan) INVOLVES: HMDB00929	HMDB00161	HMDB00684	HMDB00232	HMDB00641	HMDB00148	HMDB00045	Actinomyces	human	
+PATHWAY: L-tryptophan degradation X (mammalian, via tryptamine) INVOLVES: HMDB00197	HMDB00929	human	
+PATHWAY: L-alanine degradation IV INVOLVES: HMDB00161	HMDB00243	Bilophila	Bacillus	
+PATHWAY: L-histidine degradation II INVOLVES: HMDB00148	HMDB00854	HMDB00177	HMDB00301	Bacillus	Pseudomonas	
+PATHWAY: pyrimidine deoxyribonucleotides biosynthesis from CTP INVOLVES: HMDB01341	Streptococcus	Staphylococcus	human	
+PATHWAY: 4-hydroxyacetophenone degradation INVOLVES: HMDB00020	HMDB02434	Pseudomonas	
+PATHWAY: sulfite oxidation IV INVOLVES: HMDB01448	human	
+PATHWAY: guanine and guanosine salvage III INVOLVES: HMDB01341	Mycoplasma	
+PATHWAY: chondroitin sulfate degradation I (bacterial) INVOLVES: HMDB01448	Streptococcus	Bacteroides	Pedobacter	Bacillus	
+PATHWAY: L-tryptophan degradation IV (via indole-3-lactate) INVOLVES: HMDB00671	HMDB00929	HMDB00208	HMDB00148	Leuconostoc	Clostridium	Lactobacillus	Bacillus	
+PATHWAY: superpathway of glucose and xylose degradation INVOLVES: HMDB00190	HMDB00243	HMDB01341	Lactobacillus	Bacillus	
+PATHWAY: <I>myo</I>-inositol degradation I INVOLVES: HMDB00211	HMDB01341	Corynebacterium	Lactobacillus	Bacillus	
+PATHWAY: 3-chlorobenzoate degradation III (via gentisate) INVOLVES: HMDB00152	Pseudomonas	
+PATHWAY: D-myo-inositol-5-phosphate metabolism INVOLVES: HMDB01341	human	
+PATHWAY: retinoate biosynthesis II INVOLVES: HMDB00305	human	
+PATHWAY: D-sorbitol degradation I INVOLVES: HMDB01341	HMDB00660	HMDB00247	Bacillus	
+PATHWAY: L-ornithine degradation I (L-proline biosynthesis) INVOLVES: HMDB00162	Agrobacterium	Clostridium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: menaquinol-13 biosynthesis INVOLVES: HMDB00939	Prevotella	Bacteroides	
+PATHWAY: trans-4-hydroxy-L-proline degradation II INVOLVES: HMDB00208	HMDB00725	Bacillus	Pseudomonas	Achromobacter	
+PATHWAY: indolmycin biosynthesis INVOLVES: HMDB00517	HMDB01301	HMDB00243	HMDB00929	HMDB00161	HMDB00045	HMDB00939	Actinomyces	
+PATHWAY: oxalate degradation V INVOLVES: HMDB02329	Bacillus	
+PATHWAY: poly(3-O-&beta;-D-glucopyranosyl-N-acetylgalactosamine 1-phosphate) wall teichoic acid biosynthesis INVOLVES: HMDB00126	Bacillus	
+PATHWAY: vitamin B<sub>6</sub> degradation INVOLVES: HMDB00017	HMDB00243	HMDB00161	HMDB01545	Ochrobactrum	Pseudomonas	
+PATHWAY: S-adenosyl-L-methionine biosynthesis INVOLVES: HMDB00696	Helicobacter	
+PATHWAY: NAD phosphorylation and transhydrogenation INVOLVES: HMDB01341	human	
+PATHWAY: cholesterol degradation to androstenedione II (cholesterol dehydrogenase) INVOLVES: HMDB00045	HMDB00921	HMDB00067	Bacillus	
+PATHWAY: superpathway of 2,3-butanediol biosynthesis INVOLVES: HMDB00243	Lactobacillus	Bacillus	Lactococcus	Clostridium	Corynebacterium	Streptococcus	Leuconostoc	
+PATHWAY: &alpha;-tocopherol degradation INVOLVES: HMDB01893	human	
+PATHWAY: TCA cycle VIII (helicobacter) INVOLVES: HMDB00060	HMDB00254	HMDB00208	HMDB00094	HMDB00156	HMDB00134	Helicobacter	
+PATHWAY: ribostamycin biosynthesis INVOLVES: HMDB00208	HMDB00148	Actinomyces	Bacillus	
+PATHWAY: heme d<sub>1</sub> biosynthesis INVOLVES: HMDB00696	Paracoccus	Bacillus	Pseudomonas	
+PATHWAY: lactose and galactose degradation I INVOLVES: HMDB01341	Streptococcus	Lactococcus	Staphylococcus	
+PATHWAY: purine deoxyribonucleosides salvage INVOLVES: HMDB01341	human	
+PATHWAY: 5-aminoimidazole ribonucleotide biosynthesis I INVOLVES: HMDB00123	HMDB01341	HMDB00148	HMDB00641	human	Bacillus	
+PATHWAY: bile acid biosynthesis, neutral pathway INVOLVES: HMDB00951	HMDB00637	HMDB00251	HMDB00036	HMDB00123	HMDB00138	HMDB00045	HMDB00067	human	
+PATHWAY: L-glutamate degradation I INVOLVES: HMDB00148	HMDB00208	Staphylococcus	Bacillus	Peptococcus	Peptoniphilus	Pseudomonas	Peptostreptococcus	
+PATHWAY: caffeine degradation III (bacteria, via demethylation) INVOLVES: HMDB01847	HMDB02825	HMDB01860	HMDB01991	HMDB00292	HMDB00289	Pseudomonas	Bacillus	
+PATHWAY: superpathway of glycol metabolism and degradation INVOLVES: HMDB00156	HMDB01341	HMDB00139	Bacillus	Pseudomonas	
+PATHWAY: peptidoglycan biosynthesis II (staphylococci) INVOLVES: HMDB00182	HMDB00148	HMDB00161	HMDB01341	Pediococcus	Staphylococcus	Lactobacillus	Bacillus	Lactococcus	Weissella	Enterococcus	Streptococcus	Leuconostoc	
+PATHWAY: ethylene biosynthesis III (microbes) INVOLVES: HMDB00696	Bacillus	Ralstonia	Pseudomonas	
+PATHWAY: factor 420 polyglutamylation INVOLVES: HMDB00148	Bacillus	
+PATHWAY: L-lactaldehyde degradation (aerobic) INVOLVES: HMDB00243	HMDB00190	Bacillus	
+PATHWAY: (S)-acetoin biosynthesis INVOLVES: HMDB00243	Bacillus	
+PATHWAY: (-)-camphor degradation INVOLVES: HMDB00045	Pseudomonas	
+PATHWAY: aminopropanol phosphate biosynthesis I INVOLVES: HMDB00167	HMDB01341	Bacillus	Pseudomonas	
+PATHWAY: acetylene degradation INVOLVES: HMDB01341	Staphylococcus	
+PATHWAY: cyclohexanol degradation INVOLVES: HMDB00448	Acinetobacter	Bacillus	Neisseria	Pseudomonas	
+PATHWAY: superpathway of &beta;-D-glucuronide and D-glucuronate degradation INVOLVES: HMDB00243	HMDB01341	HMDB01353	Clostridium	Pseudomonas	Haemophilus	Bacillus	
+PATHWAY: arachidonate biosynthesis III (6-desaturase, mammals) INVOLVES: HMDB00673	HMDB00045	human	
+PATHWAY: Kdo transfer to lipid IV<sub>A</sub> II INVOLVES: HMDB01341	Haemophilus	Bacillus	
+PATHWAY: myo-inositol biosynthesis INVOLVES: HMDB00211	Bacteroides	Pseudomonas	Sphingomonas	human	Bacillus	
+PATHWAY: orcinol degradation INVOLVES: HMDB00243	Pseudomonas	
+PATHWAY: 1-butanol autotrophic biosynthesis (engineered) INVOLVES: HMDB00243	HMDB01341	Clostridium	
+PATHWAY: L-tyrosine degradation II INVOLVES: HMDB00208	HMDB00158	HMDB00148	HMDB00707	HMDB00020	Bacillus	Achromobacter	Corynebacterium	
+PATHWAY: catechol degradation I (<I>meta</I>-cleavage pathway) INVOLVES: HMDB00243	Bacillus	Ralstonia	Pseudomonas	
+PATHWAY: L-isoleucine biosynthesis IV INVOLVES: HMDB00045	HMDB00208	HMDB00172	HMDB00148	HMDB00243	HMDB00005	Clostridium	Desulfovibrio	Methanobrevibacter	Bacillus	
+PATHWAY: L-lysine degradation XI (mammalian) INVOLVES: HMDB00510	HMDB00148	HMDB00182	HMDB00208	human	
+PATHWAY: ethylene biosynthesis II (microbes) INVOLVES: HMDB00148	HMDB00208	HMDB00517	HMDB00254	HMDB01301	Pseudomonas	
+PATHWAY: guanosine nucleotides degradation III INVOLVES: HMDB00289	HMDB00292	human	
+PATHWAY: p-cumate degradation INVOLVES: HMDB00243	Pseudomonas	
+PATHWAY: PRPP biosynthesis I INVOLVES: HMDB00045	human	
+PATHWAY: allantoin degradation to glyoxylate III INVOLVES: HMDB00294	Bacillus	
+PATHWAY: (R)-cysteate degradation INVOLVES: HMDB00243	HMDB00208	HMDB00148	Paracoccus	
+PATHWAY: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I INVOLVES: HMDB00045	Lactococcus	Streptococcus	
+PATHWAY: 4-hydroxy-2(1H)-quinolone biosynthesis INVOLVES: HMDB00045	HMDB00641	HMDB01123	HMDB00148	HMDB00243	Bacillus	Pseudomonas	
+PATHWAY: N-acetylneuraminate and N-acetylmannosamine degradation II INVOLVES: HMDB00243	Bacteroides	Bacillus	
+PATHWAY: arginine, ornithine and proline interconversion INVOLVES: HMDB00162	HMDB01301	HMDB00208	HMDB00148	HMDB03374	HMDB00517	HMDB01341	HMDB00904	Clostridium	Bacillus	
+PATHWAY: L-tryptophan degradation XI (mammalian, via kynurenine) INVOLVES: HMDB01248	HMDB00929	HMDB02243	HMDB00881	HMDB00161	HMDB01123	HMDB00715	HMDB00208	HMDB00684	HMDB00148	human	
+PATHWAY: naphthalene degradation to acetyl-CoA INVOLVES: HMDB01895	HMDB00243	Pseudomonas	
+PATHWAY: L-lysine degradation II (L-pipecolate pathway) INVOLVES: HMDB00510	HMDB00208	HMDB00182	HMDB00148	human	
+PATHWAY: leucine degradation IV INVOLVES: HMDB00208	HMDB00148	HMDB00695	Clostridium	
+PATHWAY: S-methyl-5-thio-&alpha;-D-ribose 1-phosphate degradation INVOLVES: HMDB00208	HMDB00696	HMDB00641	human	Bacillus	
+PATHWAY: superpathway of aromatic compound degradation via 2-oxopent-4-enoate INVOLVES: HMDB01870	HMDB01895	HMDB00243	HMDB00929	HMDB00684	HMDB00161	HMDB01123	Bacillus	Acinetobacter	Pseudomonas	
+PATHWAY: L-glutamine degradation II INVOLVES: HMDB00208	HMDB00641	HMDB00148	Clostridium	Bacillus	
+PATHWAY: 1,4-dihydroxy-2-naphthoate biosynthesis INVOLVES: HMDB00243	HMDB00208	HMDB00045	Streptococcus	Enterococcus	Bacillus	
+PATHWAY: heterolactic fermentation INVOLVES: HMDB00660	HMDB00190	HMDB00243	HMDB01341	Lactococcus	Leuconostoc	Weissella	Lactobacillus	Bacillus	
+PATHWAY: L-valine degradation II INVOLVES: HMDB00208	HMDB00883	HMDB00148	HMDB00019	Lactococcus	Streptococcus	
+PATHWAY: lipoate salvage I INVOLVES: HMDB00045	Bacillus	
+PATHWAY: taxadiene biosynthesis (engineered) INVOLVES: HMDB01341	HMDB00243	Bacillus	Pseudomonas	
+PATHWAY: aminomethylphosphonate degradation INVOLVES: HMDB00045	HMDB01341	HMDB00696	HMDB00034	Pseudomonas	Bacillus	
+PATHWAY: nicotine degradation II (pyrrolidine pathway) INVOLVES: HMDB00254	HMDB00134	HMDB00176	Pseudomonas	
+PATHWAY: syringate degradation INVOLVES: HMDB00243	Sphingomonas	Pseudomonas	
+PATHWAY: 3-hydroxy-4-methyl-anthranilate biosynthesis I INVOLVES: HMDB00929	HMDB00684	HMDB00161	HMDB00939	Actinomyces	
+PATHWAY: rhizocticin A and B biosynthesis INVOLVES: HMDB00883	HMDB00517	HMDB01341	Bacillus	
+PATHWAY: toluene degradation to benzoate INVOLVES: HMDB01870	Pseudomonas	
+PATHWAY: L-arabinose degradation III INVOLVES: HMDB00208	Pseudomonas	
+PATHWAY: L-cysteine degradation III INVOLVES: HMDB00243	HMDB00574	HMDB00208	HMDB00148	human	
+PATHWAY: sulfate reduction V (dissimilatory, to thiosulfate) INVOLVES: HMDB00045	HMDB01448	Clostridium	Desulfovibrio	Bacillus	
+PATHWAY: nitrogen fixation II (flavodoxin) INVOLVES: HMDB01341	Bacillus	
+PATHWAY: violacein biosynthesis INVOLVES: HMDB00929	Bacillus	Pseudomonas	
+PATHWAY: pyrrolnitrin biosynthesis INVOLVES: HMDB00929	HMDB01248	Pseudomonas	
+PATHWAY: kanosamine biosynthesis II INVOLVES: HMDB00208	HMDB00148	Bacillus	
+PATHWAY: L-alanine degradation II (to D-lactate) INVOLVES: HMDB00161	HMDB00208	HMDB00148	HMDB00243	Clostridium	
+PATHWAY: phenylacetate degradation I (aerobic) INVOLVES: HMDB00209	HMDB00045	Pseudomonas	
+PATHWAY: purine nucleobases degradation II (anaerobic) INVOLVES: HMDB00187	HMDB00157	HMDB01341	HMDB00243	HMDB00289	HMDB00123	HMDB00292	Clostridium	Bacillus	
+PATHWAY: pyruvate fermentation to ethanol III INVOLVES: HMDB00243	Clostridium	Bacillus	
+PATHWAY: superpathway of salicylate degradation INVOLVES: HMDB01895	HMDB00254	Pseudomonas	
+PATHWAY: 4-nitrophenol degradation I INVOLVES: HMDB02434	Pseudomonas	
+PATHWAY: adenosylcobalamin biosynthesis I (anaerobic) INVOLVES: HMDB00167	HMDB00045	HMDB00939	HMDB00641	HMDB00148	HMDB01341	Propionibacterium	Bacillus	
+PATHWAY: chorismate biosynthesis I INVOLVES: HMDB01341	Haemophilus	Bacillus	
+PATHWAY: allantoin degradation IV (anaerobic) INVOLVES: HMDB01341	Streptococcus	
+PATHWAY: toluene degradation II (aerobic) (via 4-methylcatechol) INVOLVES: HMDB00243	Ralstonia	Pseudomonas	
+PATHWAY: cholesterol biosynthesis III (via desmosterol) INVOLVES: HMDB00067	human	
+PATHWAY: ceramide de novo biosynthesis INVOLVES: HMDB00269	HMDB00187	human	
+PATHWAY: phosphatidylethanolamine biosynthesis III INVOLVES: HMDB00187	human	
+PATHWAY: 2-propylphenol degradation INVOLVES: HMDB00039	Pseudomonas	
+PATHWAY: histamine degradation INVOLVES: HMDB00939	human	
+PATHWAY: itaconate degradation INVOLVES: HMDB00243	HMDB00254	Bacillus	Pseudomonas	
+PATHWAY: UTP and CTP de novo biosynthesis INVOLVES: HMDB00641	HMDB00148	HMDB01341	human	
+PATHWAY: superpathway of demethylmenaquinol-8 biosynthesis INVOLVES: HMDB00243	HMDB00208	HMDB00045	Streptococcus	Bacillus	Enterococcus	Pseudomonas	
+PATHWAY: 4-methylcatechol degradation (ortho cleavage) INVOLVES: HMDB00254	Ralstonia	Pseudomonas	
+PATHWAY: L-threonine degradation I INVOLVES: HMDB00167	HMDB01341	HMDB00005	Clostridium	Bacillus	
+PATHWAY: glutathione-mediated detoxification I INVOLVES: HMDB00243	HMDB00148	HMDB00123	human	
+PATHWAY: ammonia oxidation III INVOLVES: HMDB00243	Achromobacter	
+PATHWAY: pseudouridine degradation INVOLVES: HMDB00767	HMDB01341	HMDB00300	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: naphthalene degradation (aerobic) INVOLVES: HMDB01895	HMDB00243	Ralstonia	Pseudomonas	
+PATHWAY: NADH repair INVOLVES: HMDB01341	human	
+PATHWAY: linezolid resistance INVOLVES: HMDB00939	HMDB00696	Streptococcus	Clostridium	Staphylococcus	
+PATHWAY: methylamine degradation II INVOLVES: HMDB00148	HMDB01341	Pseudomonas	
+PATHWAY: staphyloxanthin biosynthesis INVOLVES: HMDB01248	Streptococcus	Staphylococcus	
+PATHWAY: glutaminyl-tRNA<sup>gln</sup> biosynthesis via transamidation INVOLVES: HMDB00641	HMDB01341	HMDB00148	HMDB00045	Campylobacter	Helicobacter	Bacillus	
+PATHWAY: L-proline biosynthesis I INVOLVES: HMDB00148	HMDB01341	HMDB00162	HMDB01301	human	
+PATHWAY: L-malate degradation I INVOLVES: HMDB00156	HMDB00190	Leuconostoc	Weissella	Lactobacillus	Bacillus	
+PATHWAY: fosfomycin biosynthesis INVOLVES: HMDB00696	Actinomyces	
+PATHWAY: N-acetylglucosamine degradation II INVOLVES: HMDB01341	Bacteroides	Bacillus	
+PATHWAY: L-glutamine degradation I INVOLVES: HMDB00641	HMDB00148	human	Bacillus	
+PATHWAY: adenosine nucleotides degradation II INVOLVES: HMDB00045	HMDB00292	HMDB00289	HMDB00195	HMDB00157	human	
+PATHWAY: superpathay of heme biosynthesis from glutamate INVOLVES: HMDB00148	HMDB00045	Pseudomonas	Bacillus	
+PATHWAY: (S)-reticuline biosynthesis II INVOLVES: HMDB00158	HMDB00208	HMDB00148	HMDB00939	human	
+PATHWAY: mannojirimycin biosynthesis INVOLVES: HMDB00148	HMDB00208	Bacillus	
+PATHWAY: meta cleavage pathway of aromatic compounds INVOLVES: HMDB00243	HMDB01870	Neisseria	Acinetobacter	Ralstonia	Pseudomonas	
+PATHWAY: thiazole biosynthesis II (aerobic bacteria) INVOLVES: HMDB00574	HMDB00161	HMDB00045	HMDB00243	HMDB00123	Bacillus	
+PATHWAY: wax esters biosynthesis II INVOLVES: HMDB00045	Acinetobacter	
+PATHWAY: 2-methylcitrate cycle II INVOLVES: HMDB00254	HMDB00243	HMDB00045	Neisseria	Ralstonia	Bacillus	
+PATHWAY: superpathway of neomycin biosynthesis INVOLVES: HMDB00641	HMDB00208	HMDB00148	Actinomyces	
+PATHWAY: nicotinate degradation II INVOLVES: HMDB00176	HMDB00134	Bacillus	
+PATHWAY: 2,5-xylenol and 3,5-xylenol degradation INVOLVES: HMDB00243	Pseudomonas	
+PATHWAY: acetate conversion to acetyl-CoA INVOLVES: HMDB00045	Ralstonia	human	
+PATHWAY: bacillibactin biosynthesis INVOLVES: HMDB00167	HMDB00123	HMDB00045	HMDB00243	Bacillus	
+PATHWAY: phosphatidylcholine biosynthesis VI INVOLVES: HMDB00097	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: tetrahydromethanopterin biosynthesis INVOLVES: HMDB00243	HMDB00134	HMDB00191	HMDB01341	HMDB00696	HMDB00045	Bacillus	Pseudomonas	
+PATHWAY: 2-methylcitrate cycle I INVOLVES: HMDB00254	HMDB00243	HMDB00045	Bacillus	
+PATHWAY: adenosine deoxyribonucleotides de novo biosynthesis II INVOLVES: HMDB01341	Bacillus	
+PATHWAY: taurine degradation I INVOLVES: HMDB00251	HMDB00243	HMDB00161	Bilophila	Pseudomonas	
+PATHWAY: cis-genanyl-CoA degradation INVOLVES: HMDB00045	HMDB01341	Bacillus	Pseudomonas	
+PATHWAY: acetone degradation III (to propane-1,2-diol) INVOLVES: HMDB00060	human	
+PATHWAY: pyocyanin biosynthesis INVOLVES: HMDB00939	Bacillus	Pseudomonas	
+PATHWAY: spermine biosynthesis INVOLVES: HMDB01257	HMDB01256	HMDB01173	Pseudomonas	human	Bacillus	
+PATHWAY: theophylline degradation INVOLVES: HMDB01857	HMDB03099	HMDB00289	HMDB10738	HMDB00292	HMDB01889	HMDB01886	Pseudomonas	
+PATHWAY: sulfate reduction III (assimilatory) INVOLVES: HMDB00045	HMDB01448	Bacillus	Pseudomonas	
+PATHWAY: aspirin triggered resolvin D biosynthesis INVOLVES: HMDB02183	human	
+PATHWAY: saframycin A biosynthesis INVOLVES: HMDB00123	HMDB00161	HMDB00158	HMDB00939	HMDB00045	Actinomyces	
+PATHWAY: palmitate biosynthesis I (animals and fungi) INVOLVES: HMDB00220	HMDB00638	human	
+PATHWAY: L-threonine degradation V INVOLVES: HMDB00167	HMDB00005	human	
+PATHWAY: 4-aminobutanoate degradation I INVOLVES: HMDB00254	HMDB00208	HMDB00148	Pseudomonas	Actinomyces	human	Bacillus	
+PATHWAY: sphingolipid biosynthesis (mammals) INVOLVES: HMDB01565	HMDB00269	HMDB00187	human	
+PATHWAY: CMP-pseudaminate biosynthesis INVOLVES: HMDB00208	HMDB00148	Bacillus	Pseudomonas	Helicobacter	Campylobacter	
+PATHWAY: toluene degradation V (aerobic) (<I>via</I> toluene-<I>cis</I>-diol) INVOLVES: HMDB00243	Pseudomonas	
+PATHWAY: 2-hydroxybiphenyl degradation INVOLVES: HMDB01870	Pseudomonas	
+PATHWAY: L-tyrosine degradation I INVOLVES: HMDB00208	HMDB00158	HMDB00148	HMDB00134	HMDB00060	HMDB00707	Pseudomonas	human	Bacillus	
+PATHWAY: D-galactarate degradation II INVOLVES: HMDB00208	Agrobacterium	Bacillus	Acinetobacter	Achromobacter	Pseudomonas	
+PATHWAY: L-carnitine biosynthesis INVOLVES: HMDB00123	HMDB00208	HMDB01325	HMDB00254	human	
+PATHWAY: lipoate salvage II INVOLVES: HMDB00045	Corynebacterium	
+PATHWAY: staurosporine biosynthesis INVOLVES: HMDB00929	HMDB00939	Actinomyces	
+PATHWAY: homocarnosine biosynthesis INVOLVES: HMDB00177	HMDB01341	human	
+PATHWAY: superpathway of aromatic compound degradation via 3-oxoadipate INVOLVES: HMDB00243	HMDB00929	HMDB00684	HMDB00161	HMDB01123	HMDB00254	HMDB01870	Bacillus	Acinetobacter	Pseudomonas	
+PATHWAY: superpathway of tetrahydrofolate biosynthesis INVOLVES: HMDB00243	HMDB00641	HMDB00045	HMDB00148	HMDB01341	Lactococcus	Streptococcus	
+PATHWAY: putrescine biosynthesis I INVOLVES: HMDB00294	HMDB00517	human	Bacillus	
+PATHWAY: L-dopa degradation INVOLVES: HMDB00118	HMDB00913	HMDB00208	HMDB00148	HMDB00939	human	
+PATHWAY: NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde INVOLVES: HMDB00232	HMDB00641	HMDB00148	HMDB00045	Actinomyces	human	
+PATHWAY: hypusine biosynthesis INVOLVES: HMDB01257	human	
+PATHWAY: superpathway of menaquinol-7 biosynthesis INVOLVES: HMDB00939	HMDB00243	HMDB00208	HMDB00045	Prevotella	Lactobacillus	Bacillus	Lactococcus	Clostridium	Staphylococcus	Corynebacterium	Streptococcus	Bacteroides	
+PATHWAY: astaxanthin biosynthesis (bacteria, fungi, algae) INVOLVES: HMDB33844	Agrobacterium	
+PATHWAY: glycolate and glyoxylate degradation III INVOLVES: HMDB00123	Paracoccus	
+PATHWAY: nitrogen fixation I (ferredoxin) INVOLVES: HMDB01341	Clostridium	Bacillus	
+PATHWAY: pyrimidine deoxyribonucleotides de novo biosynthesis III INVOLVES: HMDB01341	Bacillus	Campylobacter	Treponema	Pseudomonas	Corynebacterium	Helicobacter	
+PATHWAY: superpathway of thiamine diphosphate biosynthesis I INVOLVES: HMDB00574	HMDB00161	HMDB00158	HMDB00045	HMDB00243	HMDB00696	HMDB01341	Bacillus	
+PATHWAY: poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis) INVOLVES: HMDB01341	HMDB00045	HMDB00126	Bacillus	
+PATHWAY: biotin biosynthesis from 8-amino-7-oxononanoate II INVOLVES: HMDB00182	HMDB00696	HMDB01341	Bacillus	
+PATHWAY: caffeine degradation IV (bacteria, via demethylation and oxidation) INVOLVES: HMDB11107	HMDB11103	HMDB01982	HMDB01847	HMDB02825	HMDB01860	HMDB01991	HMDB00292	HMDB00289	Pseudomonas	
+PATHWAY: butanol and isobutanol biosynthesis (engineered) INVOLVES: HMDB00123	HMDB00019	Bacillus	
+PATHWAY: 5,6-dimethylbenzimidazole biosynthesis I (aerobic) INVOLVES: HMDB01341	Propionibacterium	Pseudomonas	Bacillus	
+PATHWAY: UMP biosynthesis III INVOLVES: HMDB00226	HMDB00191	HMDB01341	HMDB00641	HMDB00148	Lactococcus	Streptococcus	Lactobacillus	Bacillus	
+PATHWAY: isopropanol biosynthesis (engineered) INVOLVES: HMDB00060	HMDB00243	Clostridium	Enterococcus	Bacillus	
+PATHWAY: D-myo-inositol (1,4,5)-trisphosphate biosynthesis INVOLVES: HMDB00211	HMDB01341	human	
+PATHWAY: adenosylcobalamin biosynthesis II (aerobic) INVOLVES: HMDB00167	HMDB00045	HMDB00939	HMDB00641	HMDB00148	HMDB01341	Streptococcus	Pseudomonas	
+PATHWAY: D-carnitine degradation II INVOLVES: HMDB00062	HMDB00043	Pseudomonas	
+PATHWAY: purine ribonucleosides degradation INVOLVES: HMDB00157	HMDB00195	HMDB00034	HMDB00299	HMDB00292	Mycoplasma	human	
+PATHWAY: 3-oxoadipate degradation INVOLVES: HMDB00254	Bacillus	Acinetobacter	Neisseria	Pseudomonas	Corynebacterium	
+PATHWAY: catecholamine biosynthesis INVOLVES: HMDB00939	HMDB00158	human	
+PATHWAY: cholesterol biosynthesis II (via 24,25-dihydrolanosterol) INVOLVES: HMDB00067	HMDB00032	human	
+PATHWAY: juglone degradation INVOLVES: HMDB00243	Pseudomonas	
+PATHWAY: 2-aminoethylphosphonate degradation I INVOLVES: HMDB00243	HMDB00161	Pseudomonas	Bacillus	
+PATHWAY: reductive monocarboxylic acid cycle INVOLVES: HMDB00243	Clostridium	Bacillus	
+PATHWAY: imidazole-lactate degradation INVOLVES: HMDB00208	HMDB00177	HMDB00148	Pseudomonas	
+PATHWAY: cyanophycin metabolism INVOLVES: HMDB00517	HMDB00191	HMDB01341	Acinetobacter	
+PATHWAY: alcaligin biosynthesis INVOLVES: HMDB00045	Haemophilus	Bacillus	Acinetobacter	Achromobacter	
+PATHWAY: L-1,2-propanediol degradation INVOLVES: HMDB01341	Bacillus	
+PATHWAY: phosphatidylserine biosynthesis II INVOLVES: HMDB00187	human	
+PATHWAY: nicotinate degradation I INVOLVES: HMDB00134	HMDB00176	Bacillus	Pseudomonas	
+PATHWAY: NAD biosynthesis I (from aspartate) INVOLVES: HMDB00191	HMDB00232	HMDB00641	HMDB00148	HMDB00045	Bacillus	Ralstonia	Pseudomonas	
+PATHWAY: acetone degradation II (to acetoacetate) INVOLVES: HMDB00060	HMDB00045	Paracoccus	Staphylococcus	
+PATHWAY: pyrimidine deoxyribonucleosides degradation INVOLVES: HMDB00300	HMDB00012	human	Bacillus	
+PATHWAY: &gamma;-linolenate biosynthesis II (animals) INVOLVES: HMDB00673	HMDB00045	human	
+PATHWAY: hydroxymethylpyrimidine salvage INVOLVES: HMDB01341	Bacillus	
+PATHWAY: D-myo-inositol (1,3,4)-trisphosphate biosynthesis INVOLVES: HMDB01341	human	
+PATHWAY: queuosine biosynthesis INVOLVES: HMDB00034	HMDB00696	Bacillus	
+PATHWAY: leukotriene biosynthesis INVOLVES: HMDB00123	HMDB01043	human	
+PATHWAY: L-leucine degradation II INVOLVES: HMDB00208	HMDB00148	Clostridium	Bacillus	
+PATHWAY: paromamine biosynthesis II INVOLVES: HMDB00696	HMDB00641	Bacillus	
+PATHWAY: L-phenylalanine biosynthesis I INVOLVES: HMDB00148	HMDB00205	HMDB00159	HMDB00208	Bacillus	
+PATHWAY: L-aspartate biosynthesis INVOLVES: HMDB00208	HMDB00191	HMDB00148	human	
+PATHWAY: superpathway of cholesterol degradation II (cholesterol dehydrogenase) INVOLVES: HMDB00921	HMDB00067	HMDB00045	HMDB00243	Bacillus	
+PATHWAY: (R)-acetoin biosynthesis II INVOLVES: HMDB00243	Pediococcus	Lactobacillus	Bacillus	Lactococcus	Weissella	Corynebacterium	Streptococcus	Leuconostoc	Pseudomonas	
+PATHWAY: superpathway of erythromycin biosynthesis INVOLVES: HMDB00696	HMDB00939	HMDB00208	HMDB00148	Actinomyces	
+PATHWAY: L-isoleucine biosynthesis I (from threonine) INVOLVES: HMDB00167	HMDB00005	HMDB00243	HMDB00208	HMDB00172	HMDB00148	Ralstonia	
+PATHWAY: erythromycin A biosynthesis INVOLVES: HMDB00939	Actinomyces	
+PATHWAY: benzoate degradation II (aerobic and anaerobic) INVOLVES: HMDB01870	HMDB00045	Bacillus	
+PATHWAY: superpathway of adenosine nucleotides de novo biosynthesis II INVOLVES: HMDB01341	HMDB00134	HMDB00045	HMDB00175	HMDB00191	Bacillus	
+PATHWAY: L-methionine salvage cycle I (bacteria and plants) INVOLVES: HMDB00208	HMDB00641	HMDB01341	HMDB00034	HMDB01257	HMDB01173	HMDB00696	Bacillus	
+PATHWAY: sorbitol biosynthesis II INVOLVES: HMDB01341	HMDB00625	HMDB00247	Achromobacter	Pseudomonas	
+PATHWAY: creatinine degradation I INVOLVES: HMDB00123	HMDB00294	HMDB00271	HMDB00562	HMDB00064	Bacillus	Pseudomonas	Achromobacter	
+PATHWAY: 3-amino-5-hydroxybenzoate biosynthesis INVOLVES: HMDB01341	Actinomyces	
+PATHWAY: autoinducer AI-2 biosynthesis II (Vibrio) INVOLVES: HMDB00034	HMDB00939	Achromobacter	Pseudomonas	Bacillus	
+PATHWAY: vitamin D<sub>3</sub> biosynthesis INVOLVES: HMDB00032	human	
+PATHWAY: kanosamine biosynthesis I INVOLVES: HMDB00641	Bacillus	
+PATHWAY: superpathway of Clostridium acetobutylicum acidogenic fermentation INVOLVES: HMDB00243	HMDB00039	HMDB01341	Clostridium	
+PATHWAY: dTDP-3-acetamido-3,6-dideoxy-&alpha;-D-glucose biosynthesis INVOLVES: HMDB00208	HMDB00148	Clostridium	
+PATHWAY: L-proline betaine degradation INVOLVES: HMDB00162	HMDB04827	Paracoccus	
+PATHWAY: 2-chloroacrylate degradation II INVOLVES: HMDB00243	Pseudomonas	
+PATHWAY: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing) INVOLVES: HMDB00182	HMDB00148	HMDB00161	HMDB01341	Streptococcus	Staphylococcus	Lactobacillus	Bacillus	Lactococcus	Weissella	Enterococcus	Pediococcus	Leuconostoc	
+PATHWAY: L-arginine degradation IV (arginine decarboxylase/agmatine deiminase pathway) INVOLVES: HMDB00517	Bacillus	Pseudomonas	
+PATHWAY: &kappa;-carrageenan degradation INVOLVES: HMDB01448	Pseudomonas	
+PATHWAY: aspirin-triggered lipoxin biosynthesis INVOLVES: HMDB01043	human	
+PATHWAY: coenzyme A biosynthesis II (mammalian) INVOLVES: HMDB00574	HMDB00045	HMDB00210	HMDB01341	human	
+PATHWAY: L-citrulline-nitric oxide cycle INVOLVES: HMDB00134	HMDB00191	HMDB00045	HMDB00517	HMDB00904	human	
+PATHWAY: purine deoxyribonucleosides degradation I INVOLVES: HMDB00034	HMDB00157	Mycoplasma	
+PATHWAY: salicylate degradation II INVOLVES: HMDB01895	HMDB00152	Ralstonia	Pseudomonas	
+PATHWAY: anthranilate degradation I (aerobic) INVOLVES: HMDB01123	Bacillus	Haemophilus	Acinetobacter	Ralstonia	Pseudomonas	
+PATHWAY: biotin biosynthesis I INVOLVES: HMDB00696	HMDB01341	HMDB00161	HMDB00939	Haemophilus	Helicobacter	
+PATHWAY: superpathway of purine nucleotide salvage INVOLVES: HMDB00134	HMDB00191	HMDB01341	HMDB00641	HMDB00148	HMDB00045	HMDB00175	HMDB00034	HMDB00195	HMDB00157	human	
+PATHWAY: heparan sulfate degradation INVOLVES: HMDB01448	Streptococcus	Pedobacter	
+PATHWAY: ethylene biosynthesis IV (engineered) INVOLVES: HMDB00517	HMDB00254	HMDB01301	HMDB00148	HMDB00208	Pseudomonas	
+PATHWAY: CDP-diacylglycerol biosynthesis III INVOLVES: HMDB00126	Streptococcus	Staphylococcus	Bacillus	Pseudomonas	
+PATHWAY: L-asparagine degradation I INVOLVES: HMDB00168	HMDB00191	Bacillus	
+PATHWAY: superpathway of thiamine diphosphate biosynthesis II INVOLVES: HMDB00574	HMDB00161	HMDB00045	HMDB00243	HMDB00123	HMDB00696	HMDB01341	Bacillus	
+PATHWAY: urate degradation to allantoin II INVOLVES: HMDB00289	Pseudomonas	Achromobacter	Bacillus	
+PATHWAY: citrate degradation INVOLVES: HMDB00094	Bacillus	
+PATHWAY: superpathway of sulfide oxidation (phototrophic sulfur bacteria) INVOLVES: HMDB01448	HMDB00045	Bacillus	
+PATHWAY: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis INVOLVES: HMDB00148	HMDB00208	Haemophilus	Bacillus	Aggregatibacter	Pseudomonas	
+PATHWAY: 1,4-dihydroxy-6-naphthoate biosynthesis I INVOLVES: HMDB00696	HMDB00157	Streptococcus	Actinomyces	
+PATHWAY: CMP-legionaminate biosynthesis I INVOLVES: HMDB00208	HMDB00641	HMDB00148	Campylobacter	
+PATHWAY: superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate) INVOLVES: HMDB01341	human	
+PATHWAY: 5-hydroxymethylfurfural degradation INVOLVES: HMDB00045	HMDB00208	Ralstonia	Pseudomonas	
+PATHWAY: methylgallate degradation INVOLVES: HMDB00243	Sphingomonas	Pseudomonas	
+PATHWAY: bacimethrin and bacimethrin pyrophosphate biosynthesis INVOLVES: HMDB00045	HMDB00939	Clostridium	Pseudomonas	Bacillus	
+PATHWAY: putrescine degradation III INVOLVES: HMDB03681	HMDB02064	human	
+PATHWAY: 8-amino-7-oxononanoate biosynthesis III INVOLVES: HMDB00161	HMDB00045	Pseudomonas	Bacillus	
+PATHWAY: NAD salvage pathway I INVOLVES: HMDB00641	HMDB00148	HMDB01406	HMDB01341	HMDB00045	Bacillus	
+PATHWAY: 2-heptyl-3-hydroxy-4(1H)-quinolone biosynthesis INVOLVES: HMDB00045	HMDB00641	HMDB01123	HMDB00148	HMDB00243	Bacillus	Pseudomonas	
+PATHWAY: 4-chloro-2-methylphenoxyacetate degradation INVOLVES: HMDB00208	HMDB00254	Ralstonia	Pseudomonas	
+PATHWAY: vancomycin resistance I INVOLVES: HMDB00243	HMDB01341	Streptococcus	Enterococcus	
+PATHWAY: arsenate detoxification II (glutaredoxin) INVOLVES: HMDB01341	Streptococcus	Staphylococcus	Pseudomonas	Bacillus	
+PATHWAY: benzoyl-CoA degradation II (anaerobic) INVOLVES: HMDB01341	Pseudomonas	
+PATHWAY: L-valine biosynthesis INVOLVES: HMDB00243	HMDB00208	HMDB00883	HMDB00148	HMDB12141	HMDB00019	Ralstonia	
+PATHWAY: D-glucuronate degradation II INVOLVES: HMDB00208	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: superpathway of L-methionine biosynthesis (by sulfhydrylation) INVOLVES: HMDB01448	HMDB00696	HMDB01341	HMDB00208	HMDB00191	HMDB00148	Bacillus	Pseudomonas	Corynebacterium	
+PATHWAY: D-fructuronate degradation INVOLVES: HMDB00243	HMDB01341	HMDB01353	Clostridium	Pseudomonas	Haemophilus	Bacillus	
+PATHWAY: noradrenaline and adrenaline degradation INVOLVES: HMDB00291	HMDB00939	human	
+PATHWAY: dapdiamides biosynthesis INVOLVES: HMDB00208	HMDB00254	HMDB00187	HMDB00134	HMDB00641	HMDB00148	HMDB00045	HMDB00883	HMDB00172	HMDB01341	Bacillus	Pseudomonas	
+PATHWAY: superpathway of vanillin and vanillate degradation INVOLVES: HMDB00243	Sphingomonas	
+PATHWAY: ubiquinol-10 biosynthesis (prokaryotic) INVOLVES: HMDB00939	Bacillus	Streptococcus	Paracoccus	Pseudomonas	Agrobacterium	Achromobacter	
+PATHWAY: erythritol degradation II INVOLVES: HMDB02994	HMDB01341	Bacillus	
+PATHWAY: menaquinol-9 biosynthesis INVOLVES: HMDB00939	Lactobacillus	Bacillus	Lactococcus	Corynebacterium	Streptococcus	Porphyromonas	Actinomyces	Pseudomonas	Bacteroides	Odoribacter	
+PATHWAY: superpathway of Clostridium acetobutylicum acidogenic and solventogenic fermentation INVOLVES: HMDB00060	HMDB00243	HMDB00039	HMDB01341	Clostridium	
+PATHWAY: menaquinol-11 biosynthesis INVOLVES: HMDB00939	Bacteroides	Bacillus	Prevotella	Corynebacterium	
+PATHWAY: superpathway of dTDP-glucose-derived antibiotic building blocks biosynthesis INVOLVES: HMDB00939	HMDB00208	HMDB00148	Actinomyces	
+PATHWAY: acetoin biosynthesis III INVOLVES: HMDB00243	Achromobacter	Pseudomonas	
+PATHWAY: urea degradation II INVOLVES: HMDB00294	Streptococcus	Helicobacter	Campylobacter	
+PATHWAY: nicotine degradation IV INVOLVES: HMDB00939	HMDB01046	human	
+PATHWAY: long chain fatty acid ester synthesis (engineered) INVOLVES: HMDB00045	HMDB00243	Acinetobacter	Achromobacter	Pseudomonas	
+PATHWAY: D-carnitine degradation I INVOLVES: HMDB00062	HMDB00043	Agrobacterium	
+PATHWAY: D-threitol degradation INVOLVES: HMDB01341	Bacillus	
+PATHWAY: pyruvate fermentation to ethanol I INVOLVES: HMDB00243	Streptococcus	Clostridium	Bacillus	
+PATHWAY: L-alanine fermentation to propanoate and acetate INVOLVES: HMDB01341	HMDB00161	HMDB00208	HMDB00148	HMDB00243	Clostridium	Peptostreptococcus	Megasphaera	
+PATHWAY: L-citrulline degradation INVOLVES: HMDB01341	HMDB00904	Treponema	Lactobacillus	Bacillus	Weissella	Streptococcus	Leuconostoc	Mycoplasma	Pseudomonas	
+PATHWAY: L-tyrosine biosynthesis IV INVOLVES: HMDB00159	HMDB00158	human	
+PATHWAY: heparin degradation INVOLVES: HMDB01448	Streptococcus	Pedobacter	
+PATHWAY: L-glutamate biosynthesis II INVOLVES: HMDB00148	HMDB00208	human	
+PATHWAY: ubiquinol-9 biosynthesis (prokaryotic) INVOLVES: HMDB00939	Paracoccus	Pseudomonas	Bacillus	
+PATHWAY: aerobic respiration I (cytochrome c) INVOLVES: HMDB00134	HMDB00254	human	
+PATHWAY: pyruvate fermentation to butanoate INVOLVES: HMDB00243	HMDB00039	HMDB01341	Clostridium	Butyrivibrio	Bacillus	
+PATHWAY: tunicamycin biosynthesis INVOLVES: HMDB00296	Actinomyces	
+PATHWAY: sulfate reduction II (assimilatory) INVOLVES: HMDB00045	HMDB01448	Bacillus	
+PATHWAY: adenine and adenosine salvage VI INVOLVES: HMDB00045	HMDB01341	Bacillus	Mycoplasma	human	Pseudomonas	
+PATHWAY: thymine degradation INVOLVES: HMDB00079	Ralstonia	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: iso-bile acids biosynthesis II INVOLVES: HMDB00626	Ruminococcus	
+PATHWAY: dermatan sulfate degradation (metazoa) INVOLVES: HMDB01448	human	
+PATHWAY: streptomycin biosynthesis INVOLVES: HMDB00211	HMDB00243	HMDB00161	HMDB00517	HMDB01341	HMDB00641	Actinomyces	
+PATHWAY: taurine biosynthesis INVOLVES: HMDB00251	HMDB00965	HMDB00574	human	
+PATHWAY: superpathway of menaquinol-10 biosynthesis INVOLVES: HMDB00939	HMDB00243	HMDB00208	HMDB00045	Prevotella	Parabacteroides	Bacillus	Corynebacterium	Porphyromonas	Actinomyces	Pseudomonas	Bacteroides	
+PATHWAY: L-tyrosine degradation IV (to 4-methylphenol) INVOLVES: HMDB00208	HMDB00158	HMDB00148	HMDB00707	HMDB00020	Clostridium	
+PATHWAY: glycerol degradation to butanol INVOLVES: HMDB00243	HMDB01341	HMDB00131	Clostridium	Bacillus	
+PATHWAY: thiamine diphosphate biosynthesis II (Bacillus) INVOLVES: HMDB01341	Bacillus	
+PATHWAY: ethene and chloroethene degradation INVOLVES: HMDB00691	Staphylococcus	
+PATHWAY: autoinducer AI-2 biosynthesis I INVOLVES: HMDB00034	HMDB00939	Bacteroides	Porphyromonas	Bacillus	
+PATHWAY: &gamma;-butyrobetaine degradation INVOLVES: HMDB00208	HMDB00254	HMDB00043	Agrobacterium	Bacillus	Pseudomonas	
+PATHWAY: UTP and CTP dephosphorylation I INVOLVES: HMDB00089	HMDB00296	HMDB00641	HMDB00148	HMDB01341	human	
+PATHWAY: superpathway of L-serine and glycine biosynthesis I INVOLVES: HMDB00123	HMDB00187	HMDB00208	HMDB00148	human	
+PATHWAY: L-threonine degradation IV INVOLVES: HMDB00167	HMDB00123	Clostridium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: choline degradation III INVOLVES: HMDB00097	Desulfovibrio	
+PATHWAY: heme degradation INVOLVES: HMDB00054	HMDB01008	human	
+PATHWAY: catechol degradation II (<I>meta</I>-cleavage pathway) INVOLVES: HMDB00243	Bacillus	Ralstonia	Pseudomonas	
+PATHWAY: pyrimidine deoxyribonucleosides salvage INVOLVES: HMDB01341	HMDB00012	human	Bacillus	
+PATHWAY: superpathway of demethylmenaquinol-9 biosynthesis INVOLVES: HMDB00243	HMDB00208	HMDB00045	Lactobacillus	Bacillus	Lactococcus	Enterococcus	Corynebacterium	Streptococcus	Porphyromonas	Actinomyces	Pseudomonas	Bacteroides	Odoribacter	
+PATHWAY: cytidine-5'-diphosphate-glycerol biosynthesis INVOLVES: HMDB01341	HMDB00131	Streptococcus	
+PATHWAY: gentisate degradation I INVOLVES: HMDB00134	HMDB00243	HMDB00152	Bacillus	Pseudomonas	Ralstonia	Corynebacterium	
+PATHWAY: UTP and CTP dephosphorylation II INVOLVES: HMDB00641	HMDB00148	HMDB01341	human	Bacillus	
+PATHWAY: dTDP-4-O-demethyl-&beta;-L-noviose biosynthesis INVOLVES: HMDB00939	Actinomyces	
+PATHWAY: creatine biosynthesis INVOLVES: HMDB00939	HMDB00064	HMDB00517	HMDB00123	HMDB00128	human	
+PATHWAY: <I>p</I>-cymene degradation INVOLVES: HMDB00243	Bacillus	Pseudomonas	
+PATHWAY: dimethyl sulfide degradation II (oxidation) INVOLVES: HMDB04983	Acinetobacter	Pseudomonas	
+PATHWAY: superpathway of heme biosynthesis from glycine INVOLVES: HMDB00123	Agrobacterium	Bacillus	Achromobacter	human	Pseudomonas	
+PATHWAY: L-threonine degradation II INVOLVES: HMDB00123	HMDB00167	Clostridium	Bacillus	Achromobacter	Corynebacterium	Pseudomonas	
+PATHWAY: heme biosynthesis III (from siroheme) INVOLVES: HMDB00696	Desulfovibrio	Bacillus	
+PATHWAY: nicotine degradation III (VPP pathway) INVOLVES: HMDB00134	HMDB00176	Agrobacterium	Shinella	Ochrobactrum	
+PATHWAY: L-arginine degradation XI INVOLVES: HMDB00294	HMDB00208	HMDB00517	HMDB00148	HMDB04225	Achromobacter	Corynebacterium	
+PATHWAY: superpathway of microbial D-galacturonate and D-glucuronate degradation INVOLVES: HMDB00139	HMDB00131	HMDB00208	HMDB00243	HMDB01341	HMDB01353	Acinetobacter	Bacillus	Clostridium	Pseudomonas	Agrobacterium	Haemophilus	Achromobacter	
+PATHWAY: L-lysine fermentation to acetate and butanoate INVOLVES: HMDB01341	HMDB00039	HMDB00060	HMDB00182	Fusobacterium	Bacillus	Clostridium	Corynebacterium	Porphyromonas	Bacteroides	
+PATHWAY: 4-hydroxybenzoate biosynthesis I (eukaryotes) INVOLVES: HMDB00208	HMDB00158	HMDB00148	HMDB00707	HMDB00045	human	
+PATHWAY: sucrose degradation I (sucrose phosphotransferase) INVOLVES: HMDB01341	HMDB00660	Pediococcus	Staphylococcus	Lactobacillus	Bacillus	Lactococcus	Clostridium	Weissella	Streptococcus	Pseudomonas	
+PATHWAY: superpathway of Clostridium acetobutylicum solventogenic fermentation INVOLVES: HMDB00039	HMDB00060	HMDB00243	Clostridium	
+PATHWAY: L-lysine biosynthesis III INVOLVES: HMDB00182	HMDB00243	HMDB00191	HMDB01341	Bacillus	Corynebacterium	
+PATHWAY: L-ornithine biosynthesis I INVOLVES: HMDB00208	HMDB01341	HMDB00148	HMDB01138	Bacillus	
+PATHWAY: creatine-phosphate biosynthesis INVOLVES: HMDB00064	HMDB01341	human	
+PATHWAY: 2-oxopentenoate degradation INVOLVES: HMDB00243	Bacillus	Ralstonia	Pseudomonas	
+PATHWAY: fatty acid &alpha;-oxidation II INVOLVES: HMDB00208	HMDB00254	HMDB00045	human	
+PATHWAY: ergothioneine biosynthesis I (bacteria) INVOLVES: HMDB00243	HMDB03045	HMDB00574	HMDB01341	HMDB00177	HMDB00939	HMDB00148	Bacillus	
+PATHWAY: L-asparagine degradation III (mammalian) INVOLVES: HMDB00208	HMDB00148	HMDB00489	HMDB00168	HMDB00191	human	
+PATHWAY: nitrilotriacetate degradation INVOLVES: HMDB00123	HMDB11753	Pseudomonas	
+PATHWAY: 1,4-dihydroxy-6-naphthoate biosynthesis II INVOLVES: HMDB00034	HMDB00696	Helicobacter	Campylobacter	Bacillus	
+PATHWAY: ursodeoxycholate biosynthesis (bacteria) INVOLVES: HMDB00946	HMDB00518	Ruminococcus	
+PATHWAY: S-methyl-5'-thioadenosine degradation II INVOLVES: HMDB01173	HMDB00034	human	
+PATHWAY: phosphatidylcholine biosynthesis V INVOLVES: HMDB00939	Agrobacterium	Pseudomonas	Achromobacter	Bacillus	
+PATHWAY: resolvin D biosynthesis INVOLVES: HMDB02183	human	
+PATHWAY: oxalate degradation I INVOLVES: HMDB02329	Clostridium	
+PATHWAY: L-arginine degradation X (arginine monooxygenase pathway) INVOLVES: HMDB00517	HMDB00294	HMDB03464	Achromobacter	Actinomyces	Corynebacterium	
+PATHWAY: malonate decarboxylase activation INVOLVES: HMDB00034	Bacillus	
+PATHWAY: L-tryptophan degradation II (via pyruvate) INVOLVES: HMDB00929	HMDB00243	Fusobacterium	Bacillus	Pseudomonas	Corynebacterium	Actinomyces	Propionibacterium	Bacteroides	Achromobacter	
+PATHWAY: NAD salvage pathway IV INVOLVES: HMDB00855	HMDB01341	human	
+PATHWAY: D-galactose degradation II INVOLVES: HMDB00565	Bacillus	Pseudomonas	
+PATHWAY: NAD salvage pathway II INVOLVES: HMDB00641	HMDB00148	HMDB00045	Bacillus	
+PATHWAY: citrate lyase activation INVOLVES: HMDB00045	HMDB00034	Bacillus	
+PATHWAY: aminopropanol phosphate biosynthesis II INVOLVES: HMDB01341	HMDB00167	Pseudomonas	
+PATHWAY: D-galacturonate degradation I INVOLVES: HMDB00243	HMDB01341	HMDB01353	Bacillus	
+PATHWAY: GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis INVOLVES: HMDB01341	Bacillus	
+PATHWAY: gallate degradation II INVOLVES: HMDB00243	Bacillus	Pseudomonas	
+PATHWAY: cardiolipin biosynthesis I INVOLVES: HMDB00126	HMDB00131	Streptococcus	Staphylococcus	
+PATHWAY: benzoate degradation I (aerobic) INVOLVES: HMDB01870	Ralstonia	Acinetobacter	Neisseria	Pseudomonas	Corynebacterium	
+PATHWAY: UDP-N-acetyl-D-glucosamine biosynthesis II INVOLVES: HMDB00641	HMDB00148	human	
+PATHWAY: mevalonate pathway I INVOLVES: HMDB01341	human	
+PATHWAY: L-malate degradation II INVOLVES: HMDB00156	HMDB00243	Streptococcus	Bacillus	Enterococcus	Lactobacillus	
+PATHWAY: L-methionine salvage from L-homocysteine INVOLVES: HMDB00043	HMDB00696	HMDB00092	human	
+PATHWAY: Bifidobacterium shunt INVOLVES: HMDB00190	HMDB00243	HMDB01341	Bacteroides	Bifidobacterium	Lactobacillus	Actinomyces	Bacillus	
+PATHWAY: superpathway of thiosulfate metabolism (Desulfovibrio sulfodismutans) INVOLVES: HMDB01448	HMDB00045	Desulfovibrio	
+PATHWAY: carbazole degradation INVOLVES: HMDB01123	Bacillus	Achromobacter	Sphingomonas	Pseudomonas	
+PATHWAY: thiosulfate oxidation III (multienzyme complex) INVOLVES: HMDB01448	Paracoccus	Pseudomonas	
+PATHWAY: 2,2'-dihydroxybiphenyl degradation INVOLVES: HMDB01895	Pseudomonas	
+PATHWAY: ubiquinol-7 biosynthesis (prokaryotic) INVOLVES: HMDB00939	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: pyruvate fermentation to butanol I INVOLVES: HMDB00243	Clostridium	
+PATHWAY: superpathway of candicidin biosynthesis INVOLVES: HMDB00243	HMDB00641	HMDB00148	HMDB01341	Actinomyces	
+PATHWAY: L-tryptophan degradation VI (via tryptamine) INVOLVES: HMDB00197	HMDB00929	Streptococcus	Enterococcus	Bacillus	
+PATHWAY: L-isoleucine biosynthesis V INVOLVES: HMDB00208	HMDB00172	HMDB00148	Prevotella	Bacteroides	Clostridium	Methanobrevibacter	Bacillus	
+PATHWAY: L-phenylalanine degradation IV (mammalian, via side chain) INVOLVES: HMDB00045	HMDB00641	HMDB06344	HMDB00209	HMDB00669	HMDB00208	HMDB00205	HMDB00148	HMDB00123	HMDB00159	human	
+PATHWAY: caffeine degradation V (bacteria, via trimethylurate) INVOLVES: HMDB01847	HMDB02123	Pseudomonas	
+PATHWAY: glycolysis III (from glucose) INVOLVES: HMDB00243	HMDB01341	human	
+PATHWAY: hypotaurine degradation INVOLVES: HMDB00965	HMDB00243	HMDB00161	Paracoccus	
+PATHWAY: methylhalides biosynthesis (plants) INVOLVES: HMDB00939	Raphanus	
+PATHWAY: pyrimidine ribonucleosides degradation INVOLVES: HMDB00300	HMDB00089	HMDB00296	human	
+PATHWAY: protocatechuate degradation I (<I>meta</I>-cleavage pathway) INVOLVES: HMDB00243	Sphingomonas	Pseudomonas	
+PATHWAY: gluconeogenesis III INVOLVES: HMDB00156	HMDB00243	HMDB01341	human	
+PATHWAY: gentisate degradation II INVOLVES: HMDB00176	HMDB00243	HMDB00152	Pseudomonas	
+PATHWAY: sulfate reduction I (assimilatory) INVOLVES: HMDB01341	HMDB01448	Bacillus	
+PATHWAY: peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing) INVOLVES: HMDB00148	HMDB00161	HMDB01341	Corynebacterium	Pseudomonas	Propionibacterium	Bacillus	
+PATHWAY: superpathway of L-methionine salvage and degradation INVOLVES: HMDB00043	HMDB00092	HMDB01448	HMDB00243	HMDB00208	HMDB00148	HMDB01341	HMDB00005	HMDB00574	HMDB00187	HMDB00099	HMDB00939	HMDB00696	human	
+PATHWAY: glycolysis II (from fructose 6-phosphate) INVOLVES: HMDB00045	HMDB00243	HMDB01341	Streptococcus	Staphylococcus	
+PATHWAY: TCA cycle III (animals) INVOLVES: HMDB01341	HMDB00208	HMDB00254	HMDB00094	HMDB00156	HMDB00134	human	
+PATHWAY: acetone degradation I (to methylglyoxal) INVOLVES: HMDB00060	human	
+PATHWAY: superpathway of pyrimidine ribonucleosides degradation INVOLVES: HMDB00089	HMDB00296	HMDB00056	HMDB00026	HMDB00076	HMDB00300	human	Bacillus	
+PATHWAY: protein ubiquitylation INVOLVES: HMDB00045	human	
+PATHWAY: propene degradation INVOLVES: HMDB00060	Staphylococcus	
+PATHWAY: zeaxanthin biosynthesis INVOLVES: HMDB33844	Bacillus	Pseudomonas	
+PATHWAY: pyruvate decarboxylation to acetyl CoA INVOLVES: HMDB00243	human	
+PATHWAY: gramicidin S biosynthesis INVOLVES: HMDB00883	HMDB00162	HMDB00159	HMDB00045	Bacillus	
+PATHWAY: uracil degradation II (oxidative) INVOLVES: HMDB00691	HMDB00294	HMDB00300	Corynebacterium	Bacillus	
+PATHWAY: superpathway of ubiquinol-8 biosynthesis (prokaryotic) INVOLVES: HMDB00939	HMDB00243	Acinetobacter	Ralstonia	Bacillus	Haemophilus	Pseudomonas	Achromobacter	
+PATHWAY: glucose degradation (oxidative) INVOLVES: HMDB00625	HMDB01341	Pseudomonas	Bacillus	
+PATHWAY: adenine and adenosine salvage III INVOLVES: HMDB00175	HMDB00034	HMDB00195	HMDB00157	Bacillus	Mycoplasma	human	Pseudomonas	
+PATHWAY: L-valine degradation I INVOLVES: HMDB01248	HMDB00208	HMDB00883	HMDB00148	HMDB00019	Streptococcus	Bacillus	human	Actinomyces	Pseudomonas	
+PATHWAY: thiamine diphosphate biosynthesis III (Staphylococcus) INVOLVES: HMDB00045	Dorea	Syntrophomonas	Ruminococcus	Anaerotruncus	Staphylococcus	
+PATHWAY: stearate biosynthesis I (animals and fungi) INVOLVES: HMDB00827	HMDB00220	HMDB00045	human	
+PATHWAY: D-myo-inositol (1,4,5)-trisphosphate degradation INVOLVES: HMDB00211	human	
+PATHWAY: D-arabitol degradation INVOLVES: HMDB01341	Pseudomonas	Bacillus	
+PATHWAY: methylglyoxal degradation VII INVOLVES: HMDB00243	Bacillus	Pseudomonas	
+PATHWAY: oleandomycin activation/inactivation INVOLVES: HMDB01341	Actinomyces	
+PATHWAY: 3-methylarginine biosynthesis INVOLVES: HMDB00208	HMDB00517	HMDB00148	HMDB00191	HMDB04225	HMDB00939	Pseudomonas	
+PATHWAY: GABA shunt INVOLVES: HMDB00254	HMDB00208	HMDB00148	human	
+PATHWAY: pyruvate fermentation to propanoate I INVOLVES: HMDB00243	HMDB00254	HMDB00156	HMDB00134	Bacillus	Corynebacterium	Propionibacterium	
+PATHWAY: carnosine biosynthesis INVOLVES: HMDB00177	HMDB00056	HMDB01341	human	
+PATHWAY: methanofuran biosynthesis INVOLVES: HMDB01341	HMDB00158	HMDB00148	HMDB00161	HMDB00243	Methanobrevibacter	
+PATHWAY: superpathway of steroid hormone biosynthesis INVOLVES: HMDB01547	HMDB00067	human	
+PATHWAY: [2Fe-2S] iron-sulfur cluster biosynthesis INVOLVES: HMDB01341	HMDB00574	HMDB00161	human	Bacillus	
+PATHWAY: L-arginine degradation II (AST pathway) INVOLVES: HMDB00254	HMDB00208	HMDB00148	HMDB00517	Pseudomonas	Bacillus	
+PATHWAY: L-arginine degradation I (arginase pathway) INVOLVES: HMDB00208	HMDB00148	HMDB00517	HMDB00294	Bacillus	Clostridium	human	Pseudomonas	Agrobacterium	Achromobacter	
+PATHWAY: putrescine biosynthesis II INVOLVES: HMDB00517	Bacillus	Campylobacter	Pseudomonas	
+PATHWAY: L-methionine salvage cycle III INVOLVES: HMDB00208	HMDB00641	HMDB00034	HMDB01257	HMDB01173	HMDB00696	human	
+PATHWAY: icosapentaenoate biosynthesis III (8-desaturase, mammals) INVOLVES: HMDB00045	human	
+PATHWAY: lipoxin biosynthesis INVOLVES: HMDB01043	human	
+PATHWAY: sulfite oxidation III INVOLVES: HMDB01448	HMDB00045	Bacillus	
+PATHWAY: ethanol degradation II INVOLVES: HMDB00045	human	
+PATHWAY: urea cycle INVOLVES: HMDB01341	HMDB00294	HMDB00517	HMDB00134	HMDB00191	HMDB00045	HMDB00904	human	
+PATHWAY: 2,4,6-trichlorophenol degradation INVOLVES: HMDB01248	Ralstonia	Actinomyces	
+PATHWAY: L-alanine degradation III INVOLVES: HMDB00161	HMDB00208	HMDB00148	HMDB00243	human	
+PATHWAY: D-arginine degradation INVOLVES: HMDB04225	HMDB00517	Bacillus	Pseudomonas	
+PATHWAY: aerobactin biosynthesis INVOLVES: HMDB00094	HMDB01341	HMDB00182	Bacillus	
+PATHWAY: mycolyl-arabinogalactan-peptidoglycan complex biosynthesis INVOLVES: HMDB01248	Mycoplasma	Bacillus	
+PATHWAY: L-arginine degradation IX (arginine:pyruvate transaminase pathway) INVOLVES: HMDB00243	HMDB00517	HMDB00161	HMDB04225	HMDB03464	HMDB00294	Bacillus	Pseudomonas	
+PATHWAY: reductive acetyl coenzyme A pathway I (homoacetogenic bacteria) INVOLVES: HMDB01341	Blautia	Clostridium	Streptococcus	Ruminococcus	Bacteroides	Peptostreptococcus	
+PATHWAY: salicylate degradation I INVOLVES: HMDB01895	Pseudomonas	
+PATHWAY: glycerol degradation III INVOLVES: HMDB00131	Clostridium	Lactobacillus	Bacillus	
+PATHWAY: superpathway of L-citrulline metabolism INVOLVES: HMDB00134	HMDB00191	HMDB00045	HMDB00162	HMDB01341	HMDB00904	HMDB00208	HMDB01301	HMDB00517	HMDB00294	HMDB00641	HMDB00148	human	
+PATHWAY: ethanol degradation IV INVOLVES: HMDB00045	human	
+PATHWAY: aniline degradation INVOLVES: HMDB00148	HMDB01341	Acinetobacter	Ralstonia	Pseudomonas	Achromobacter	
+PATHWAY: glucosinolate activation INVOLVES: HMDB01448	Raphanus	
+PATHWAY: tetrapyrrole biosynthesis I (from glutamate) INVOLVES: HMDB00148	HMDB00045	Bacillus	Pseudomonas	
+PATHWAY: methylphosphonate degradation II INVOLVES: HMDB00696	HMDB00034	Eggerthella	Clostridium	Collinsella	Bacteroides	Bacillus	
+PATHWAY: guanosine ribonucleotides de novo biosynthesis INVOLVES: HMDB01341	HMDB00641	HMDB00148	HMDB00045	HMDB00175	human	Bacillus	
+PATHWAY: D-galacturonate degradation II INVOLVES: HMDB00208	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: glycine betaine degradation II (mammalian) INVOLVES: HMDB00187	HMDB00271	HMDB00123	HMDB00043	HMDB00696	HMDB00092	human	
+PATHWAY: 2-acetamido-4-amino-2,4,6-trideoxy-&alpha;-D-galactosyl-diphospho-ditrans,octacis-undecaprenol biosynthesis INVOLVES: HMDB00208	HMDB00148	Streptococcus	Bacteroides	
+PATHWAY: D-glucarate degradation II INVOLVES: HMDB00208	Agrobacterium	Bacillus	Acinetobacter	Achromobacter	Pseudomonas	
+PATHWAY: sulfite oxidation V (SoeABC) INVOLVES: HMDB01448	Bacillus	
+PATHWAY: dehydrophos biosynthesis INVOLVES: HMDB01341	HMDB00254	HMDB00208	HMDB00148	HMDB00939	Actinomyces	
+PATHWAY: putrescine degradation V INVOLVES: HMDB00243	HMDB00161	Bacillus	Pseudomonas	
+PATHWAY: phosphatidylinositol biosynthesis II (eukaryotes) INVOLVES: HMDB00211	human	
+PATHWAY: superpathway of guanosine nucleotides de novo biosynthesis I INVOLVES: HMDB01341	HMDB00641	HMDB00148	HMDB00045	HMDB00175	human	Bacillus	
+PATHWAY: paromamine biosynthesis I INVOLVES: HMDB00641	Actinomyces	
+PATHWAY: mineralocorticoid biosynthesis INVOLVES: HMDB01547	human	
+PATHWAY: phenylethylamine degradation II INVOLVES: HMDB00209	Paracoccus	Pseudomonas	
+PATHWAY: 4-aminobenzoate biosynthesis INVOLVES: HMDB00243	HMDB00641	HMDB00148	Actinomyces	
+PATHWAY: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli) INVOLVES: HMDB01341	Bacillus	
+PATHWAY: choline-O-sulfate degradation INVOLVES: HMDB00043	HMDB01448	HMDB00097	Bacillus	Pseudomonas	
+PATHWAY: L-lysine degradation VIII INVOLVES: HMDB00182	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: glycine cleavage INVOLVES: HMDB00123	human	
+PATHWAY: urea degradation I INVOLVES: HMDB00294	HMDB01341	Pseudomonas	
+PATHWAY: sulfite oxidation I INVOLVES: HMDB01448	Paracoccus	
+PATHWAY: toluene degradation III (aerobic) (via p-cresol) INVOLVES: HMDB00254	Pseudomonas	
+PATHWAY: L-threonine degradation III (to methylglyoxal) INVOLVES: HMDB00167	Bacillus	Achromobacter	Pseudomonas	Corynebacterium	
+PATHWAY: superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis INVOLVES: HMDB01248	HMDB00641	HMDB00148	HMDB00045	Mycoplasma	Bacillus	
+PATHWAY: superpathway of menaquinol-9 biosynthesis INVOLVES: HMDB00939	HMDB00243	HMDB00208	HMDB00045	Lactobacillus	Bacillus	Lactococcus	Corynebacterium	Streptococcus	Porphyromonas	Actinomyces	Pseudomonas	Bacteroides	Odoribacter	
+PATHWAY: menaquinol-10 biosynthesis INVOLVES: HMDB00939	Prevotella	Parabacteroides	Bacillus	Corynebacterium	Porphyromonas	Actinomyces	Pseudomonas	Bacteroides	
+PATHWAY: 3,5,6-trichloro-2-pyridinol degradation INVOLVES: HMDB01248	Ralstonia	
+PATHWAY: purine nucleotides degradation II (aerobic) INVOLVES: HMDB00299	HMDB00175	HMDB00045	HMDB00292	HMDB00289	HMDB00195	HMDB00157	human	
+PATHWAY: NAD biosynthesis III INVOLVES: HMDB01406	Haemophilus	Pseudomonas	Mycoplasma	Aggregatibacter	Bacillus	
+PATHWAY: L-threitol degradation INVOLVES: HMDB01341	Bacillus	
+PATHWAY: butirosin biosynthesis INVOLVES: HMDB00267	HMDB00148	HMDB01341	Bacillus	
+PATHWAY: actinomycin D biosynthesis INVOLVES: HMDB00167	HMDB00045	HMDB00123	HMDB00162	HMDB00883	HMDB00939	HMDB01341	Actinomyces	
+PATHWAY: mandelate degradation I INVOLVES: HMDB01870	Bacillus	Pseudomonas	
+PATHWAY: trimethylamine degradation INVOLVES: HMDB00925	Pseudomonas	
+PATHWAY: L-histidine degradation VI INVOLVES: HMDB00208	HMDB00854	HMDB01212	HMDB00177	HMDB00301	human	
+PATHWAY: type IV lipoteichoic acid biosynthesis (S. pneumoniae) INVOLVES: HMDB00097	HMDB01341	HMDB01565	HMDB00045	Streptococcus	
+PATHWAY: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis INVOLVES: HMDB01341	Haemophilus	Campylobacter	Helicobacter	Pseudomonas	
+PATHWAY: homolactic fermentation INVOLVES: HMDB01341	HMDB00190	HMDB00243	Streptococcus	Lactobacillus	Bacillus	Lactococcus	Weissella	Enterococcus	Pediococcus	human	
+PATHWAY: L-histidine biosynthesis INVOLVES: HMDB00641	HMDB00148	HMDB00208	HMDB00177	Haemophilus	Bacillus	
+PATHWAY: pyoverdine I biosynthesis INVOLVES: HMDB00208	HMDB00167	HMDB00182	HMDB00517	HMDB00187	HMDB00158	HMDB00148	HMDB00045	Pseudomonas	
+PATHWAY: pyruvate fermentation to lactate INVOLVES: HMDB00190	HMDB00243	Bifidobacterium	Mycoplasma	Lactobacillus	Bacillus	
+PATHWAY: CDP-diacylglycerol biosynthesis I INVOLVES: HMDB00126	human	
+PATHWAY: elloramycin biosynthesis INVOLVES: HMDB00939	Actinomyces	
+PATHWAY: pyrimidine ribonucleosides salvage I INVOLVES: HMDB01341	HMDB00089	HMDB00296	human	
+PATHWAY: peptidoglycan biosynthesis V (&beta;-lactam resistance) INVOLVES: HMDB00182	HMDB00148	HMDB00161	HMDB01341	Streptococcus	Enterococcus	
+PATHWAY: purine deoxyribonucleosides degradation II INVOLVES: HMDB00157	human	
+PATHWAY: folate polyglutamylation INVOLVES: HMDB00187	HMDB00123	HMDB00148	HMDB01341	Bacillus	Lactobacillus	Corynebacterium	
+PATHWAY: L-ascorbate degradation II (bacterial, aerobic) INVOLVES: HMDB01341	Bacillus	
+PATHWAY: taurine degradation III INVOLVES: HMDB00208	HMDB00251	HMDB00148	Achromobacter	
+PATHWAY: succinate fermentation to butanoate INVOLVES: HMDB00254	HMDB00039	Clostridium	
+PATHWAY: butane degradation INVOLVES: HMDB00039	Pseudomonas	
+PATHWAY: pyruvate fermentation to hexanol (engineered) INVOLVES: HMDB00243	Clostridium	Ralstonia	
+PATHWAY: L-lysine degradation I INVOLVES: HMDB00182	Veillonella	Bacillus	Staphylococcus	Selenomonas	Pseudomonas	Anaerovibrio	
+PATHWAY: superpathway of menaquinol-13 biosynthesis INVOLVES: HMDB00939	HMDB00243	HMDB00208	HMDB00045	Prevotella	Bacteroides	
+PATHWAY: superpathway of polyamine biosynthesis III INVOLVES: HMDB00208	HMDB00148	HMDB01257	HMDB00191	HMDB01341	Bacillus	Pseudomonas	
+PATHWAY: L-proline degradation INVOLVES: HMDB00162	HMDB01301	HMDB00148	Agrobacterium	Bacillus	Achromobacter	human	Pseudomonas	
+PATHWAY: fatty acid &beta;-oxidation I INVOLVES: HMDB00045	human	
+PATHWAY: UDP-N,N'-diacetylbacillosamine biosynthesis INVOLVES: HMDB00208	HMDB00148	Neisseria	Campylobacter	
+PATHWAY: tylosin biosynthesis INVOLVES: HMDB00939	Actinomyces	
+PATHWAY: putrebactin biosynthesis INVOLVES: HMDB00045	Pseudomonas	
+PATHWAY: phosphatidylserine biosynthesis I INVOLVES: HMDB00187	HMDB00097	human	
+PATHWAY: uracil degradation I (reductive) INVOLVES: HMDB00056	HMDB00026	HMDB00076	HMDB00300	human	Bacillus	
+PATHWAY: L-tryptophan degradation V (side chain pathway) INVOLVES: HMDB00197	HMDB00929	Bacillus	Pseudomonas	
+PATHWAY: fructose 2,6-bisphosphate biosynthesis INVOLVES: HMDB01341	human	
+PATHWAY: spermine and spermidine degradation I INVOLVES: HMDB01257	HMDB01256	human	
+PATHWAY: flavin biosynthesis IV (mammalian) INVOLVES: HMDB01341	HMDB01248	human	
+PATHWAY: 4-hydroxyphenylpyruvate biosynthesis INVOLVES: HMDB00208	HMDB00158	HMDB00707	HMDB00148	Pseudomonas	human	Bacillus	
+PATHWAY: L-asparagine biosynthesis I INVOLVES: HMDB00641	HMDB00148	HMDB00191	HMDB00168	HMDB00045	human	
+PATHWAY: pyrimidine deoxyribonucleotide phosphorylation INVOLVES: HMDB01341	Bacillus	human	Pseudomonas	
+PATHWAY: urate degradation to allantoin I INVOLVES: HMDB00289	Bacillus	Pseudomonas	
+PATHWAY: folate transformations I INVOLVES: HMDB00187	HMDB00123	HMDB00696	HMDB01341	Blautia	Lactobacillus	Bacillus	Clostridium	Streptococcus	Ruminococcus	Pseudomonas	Peptostreptococcus	
+PATHWAY: superpathway of nicotinate degradation INVOLVES: HMDB00243	HMDB00176	HMDB00134	Clostridium	Pseudomonas	Bacillus	
+PATHWAY: bacillithiol biosynthesis INVOLVES: HMDB00156	HMDB00574	Bacillus	
+PATHWAY: D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis INVOLVES: HMDB01341	human	
+PATHWAY: C20 prostanoid biosynthesis INVOLVES: HMDB01043	human	
+PATHWAY: dermatan sulfate degradation I (bacterial) INVOLVES: HMDB01448	Streptococcus	Bacteroides	Pedobacter	Bacillus	
+PATHWAY: heme biosynthesis II (anaerobic) INVOLVES: HMDB00696	Ralstonia	Bacillus	Lactococcus	Helicobacter	Streptococcus	Pseudomonas	Campylobacter	
+PATHWAY: androstenedione degradation INVOLVES: HMDB00045	HMDB00243	Staphylococcus	Bacillus	Corynebacterium	Pseudomonas	
+PATHWAY: autoinducer AI-1 biosynthesis INVOLVES: HMDB01173	Agrobacterium	Bacillus	Achromobacter	Pseudomonas	
+PATHWAY: L-isoleucine degradation I INVOLVES: HMDB00208	HMDB00172	HMDB00148	Clostridium	Pseudomonas	human	Bacillus	
+PATHWAY: dTDP-L-mycarose biosynthesis INVOLVES: HMDB00939	Actinomyces	
+PATHWAY: prodigiosin biosynthesis INVOLVES: HMDB00243	HMDB01341	HMDB00939	HMDB00187	HMDB00162	HMDB00045	Bacillus	
+PATHWAY: mevalonate degradation INVOLVES: HMDB00060	Pseudomonas	
